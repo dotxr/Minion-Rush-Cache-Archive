@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+native-3493/assets/app_bundle_extra_amazon_app_bundle_extra_41 filter=lfs diff=lfs merge=lfs -text
+native-3493/assets/app_bundle_extra_amazon_app_bundle_extra_42 filter=lfs diff=lfs merge=lfs -text
+native-3493/assets/app_bundle_extra_amazon_app_bundle_extra_49 filter=lfs diff=lfs merge=lfs -text

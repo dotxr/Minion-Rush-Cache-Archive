@@ -1,0 +1,27 @@
+{
+  "behavioral_version": "1.0.0",
+  "config_format_version": "1.0.0",
+  "rules": [
+    {
+      "rule": "RESET_CACHED_RESTRICTIONS", "if": "c==BR && rv<26.0.0"
+    },
+    {
+      "rule": "RESET_CACHED_USER_INFO", "if":"c==BR && rv<26.0.0"
+    },
+    {
+      "rule": "GET_LATEST_RESTRICTIONS", "if": "c==BR && rv<26.0.0"
+    },
+    {
+      "rule": "ENABLE_AGE_VALIDATOR", "if": "lv>=3.2.0 && (c==BR || c==US)"
+    },
+    {
+      "rule": "RESET_CACHED_RESTRICTIONS", "if": "c==CN && l=China && age<18"
+    },
+    {
+      "rule": "RESET_CACHED_USER_INFO", "if":"c==CN && l=China && age<18"
+    },
+    {
+      "rule": "GET_LATEST_RESTRICTIONS", "if": "c==CN && l=China && age<18"
+    }
+  ]
+}

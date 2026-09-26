@@ -1,0 +1,4852 @@
+{
+  "tournamentEvents": [
+    {
+      "startTime": "2026-09-21T00:00:00Z",
+      "endTime": "2026-09-28T00:00:00Z",
+      "eventId": "69902a46-b2f4-11f1-aad8-92fc12b14311",
+      "name": "Weekly_Tournament_RookieRumble_Dynamic_1409_2709",
+      "priority": 1,
+      "leaderboardName": "Leaderboard_69902a46-b2f4-11f1-aad8-92fc12b14311",
+      "leaderBoardSize": 50,
+      "type": "Weekly",
+      "title": {
+        "pt_br": "Torneios semanais",
+        "zh_tw": "\u6bcf\u9031\u9326\u6a19\u8cfd",
+        "ar": "\u0627\u0644\u0628\u0637\u0648\u0644\u0627\u062a \u0627\u0644\u0623\u0633\u0628\u0648\u0639\u064a\u0629",
+        "uk": "\u0429\u043e\u0442\u0438\u0436\u043d\u0435\u0432\u0438\u0439 \u0442\u0443\u0440\u043d\u0456\u0440",
+        "it": "Tornei settimanali",
+        "id": "Turnamen mingguan",
+        "tr": "Haftal\u0131k turnuvalar",
+        "fr": "Tournois hebdomadaires",
+        "ko": "\uc8fc\uac04 \ud1a0\ub108\uba3c\ud2b8",
+        "de": "W\u00f6chentliche Turniere",
+        "es": "Torneos semanales",
+        "ja": "\u30a6\u30a3\u30fc\u30af\u30ea\u30fc",
+        "zh_cn": "\u6bcf\u5468\u9526\u6807\u8d5b",
+        "th": "\u0e17\u0e31\u0e27\u0e23\u0e4c\u0e19\u0e32\u0e40\u0e21\u0e19\u0e15\u0e4c|\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c",
+        "ru": "\u0415\u0436\u0435\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u044b\u0435 \u0442\u0443\u0440\u043d\u0438\u0440\u044b",
+        "en": "Weekly Tournament"
+      },
+      "milestones": [
+        {
+          "points": 10,
+          "reward": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 20,
+          "reward": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 30,
+          "reward": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 40,
+          "reward": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 50,
+          "reward": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "points": 1,
+          "taskConfig": {
+            "type": "Revive_N_Times",
+            "goal": 1.0
+          }
+        },
+        {
+          "points": 1,
+          "taskConfig": {
+            "type": "UseBooster_N_Times",
+            "goal": 1.0
+          }
+        }
+      ],
+      "rankRewards": [
+        {
+          "minRank": 1,
+          "maxRank": 1,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 200
+            },
+            {
+              "item": "Key_Silver",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "minRank": 2,
+          "maxRank": 2,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 150
+            },
+            {
+              "item": "Key_Silver",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "minRank": 3,
+          "maxRank": 3,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 100
+            },
+            {
+              "item": "Key_Silver",
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "minRank": 4,
+          "maxRank": 10,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 50
+            },
+            {
+              "item": "Key_Silver",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "minRank": 11,
+          "maxRank": 25,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 25
+            },
+            {
+              "item": "Key_Silver",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "minRank": 26,
+          "maxRank": 50,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 5
+            }
+          ]
+        }
+      ],
+      "repeatedMilestone": {
+        "points": 25,
+        "reward": [
+          {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": 1,
+            "contents": [
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 1
+              }
+            ]
+          }
+        ]
+      },
+      "validationPeriod": "60s",
+      "claimPeriod": "600s"
+    },
+    {
+      "startTime": "2026-09-26T00:00:00Z",
+      "endTime": "2026-09-27T00:00:00Z",
+      "eventId": "ff2a040a-b6e1-11f1-b5c5-3ec8c6fb8f36",
+      "name": "Daily_Tournament_RookieRumble_Dynamic_Saturday",
+      "priority": 1,
+      "leaderboardName": "Leaderboard_ff2a040a-b6e1-11f1-b5c5-3ec8c6fb8f36",
+      "leaderBoardSize": 50,
+      "title": {
+        "pt_br": "Torneio di\u00e1rio",
+        "zh_tw": "\u6bcf\u65e5\u9326\u6a19\u8cfd",
+        "ar": "\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u064a\u0648\u0645\u064a\u0629",
+        "uk": "\u0429\u043e\u0434\u0435\u043d\u043d\u0438\u0439 \u0442\u0443\u0440\u043d\u0456\u0440",
+        "it": "Torneo giornaliero",
+        "id": "Turnamen harian",
+        "tr": "G\u00fcnl\u00fck turnuva",
+        "fr": "Tournoi quotidien",
+        "ko": "\uc77c\uc77c \ud1a0\ub108\uba3c\ud2b8",
+        "de": "T\u00e4gliches Turnier",
+        "es": "Torneo diario",
+        "ja": "<nobr>\u30c7\u30a4\u30ea\u30fc</nobr>\u200a<nobr>\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8</nobr>",
+        "zh_cn": "\u6bcf\u65e5\u9526\u6807\u8d5b",
+        "th": "\u0e17\u0e31\u0e27\u0e23\u0e4c\u0e19\u0e32\u0e40\u0e21\u0e19\u0e15\u0e4c|\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e27\u0e31\u0e19",
+        "ru": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0439 \u0442\u0443\u0440\u043d\u0438\u0440",
+        "en": "Daily Tournament"
+      },
+      "milestones": [
+        {
+          "points": 50,
+          "reward": [
+            {
+              "item": "CollectionSticker_SportsExperts",
+              "amount": 10
+            }
+          ]
+        },
+        {
+          "points": 125,
+          "reward": [
+            {
+              "item": "CollectionSticker_SportsExperts",
+              "amount": 15
+            }
+          ]
+        },
+        {
+          "points": 250,
+          "reward": [
+            {
+              "item": "CollectionSticker_SportsExperts",
+              "amount": 25
+            }
+          ]
+        }
+      ],
+      "tasks": [
+        {
+          "points": 1,
+          "taskConfig": {
+            "type": "Play_N_Times",
+            "goal": 1.0
+          }
+        },
+        {
+          "points": 5,
+          "taskConfig": {
+            "type": "Punch_N_Minions",
+            "goal": 5.0
+          }
+        },
+        {
+          "points": 10,
+          "taskConfig": {
+            "type": "Revive_N_Times",
+            "goal": 1.0
+          }
+        },
+        {
+          "points": 10,
+          "taskConfig": {
+            "type": "UseBooster_N_Times",
+            "goal": 1.0
+          }
+        }
+      ],
+      "rankRewards": [
+        {
+          "minRank": 1,
+          "maxRank": 1,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 200
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "minRank": 2,
+          "maxRank": 2,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 150
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 4
+            }
+          ]
+        },
+        {
+          "minRank": 3,
+          "maxRank": 3,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 100
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "minRank": 4,
+          "maxRank": 10,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 50
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "minRank": 11,
+          "maxRank": 25,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 25
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "minRank": 26,
+          "maxRank": 50,
+          "items": [
+            {
+              "item": "Token",
+              "amount": 5
+            }
+          ]
+        }
+      ],
+      "repeatedMilestone": {
+        "points": 50,
+        "reward": [
+          {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": 2,
+            "contents": [
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 5
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 5,
+                "aux": 3
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 10,
+                "aux": 2
+              }
+            ]
+          }
+        ]
+      },
+      "validationPeriod": "60s",
+      "claimPeriod": "600s"
+    }
+  ],
+  "seasonPassEvents": [
+    {
+      "startTime": "2026-09-14T00:00:00Z",
+      "endTime": "2026-09-27T23:59:00Z",
+      "eventId": "e6e47d2e-af8b-11f1-9170-ee6a61558d28",
+      "name": "SP_UPD103_Standart_Dynamic_2_wo_WT_1409_2709",
+      "priority": 1,
+      "title": {
+        "pt_br": "Rush Retr\u00f4",
+        "zh_tw": "\u5fa9\u53e4\u6f6e\u6d41",
+        "ar": "\u0631\u0643\u0636 \u0643\u0644\u0627\u0633\u064a\u0643\u064a",
+        "uk": "\u0420\u0435\u0442\u0440\u043e\u0437\u0430\u0431\u0456\u0433",
+        "it": "Corsa r\u00e9tro",
+        "id": "Serbuan Retro",
+        "tr": "Retro Furyas\u0131",
+        "fr": "Rush r\u00e9tro",
+        "ko": "\ub808\ud2b8\ub85c \ub7ec\uc26c",
+        "de": "Retro Rush",
+        "es": "Carrera retro",
+        "ja": "\u30ec\u30c8\u30ed|\u30e9\u30c3\u30b7\u30e5",
+        "zh_cn": "\u6000\u65e7\u51b2\u523a",
+        "th": "\u0e40\u0e23\u0e42\u0e17\u0e23\u0e23\u0e31\u0e0a",
+        "ru": "\u0420\u0435\u0442\u0440\u043e\u0437\u0430\u0431\u0435\u0433",
+        "en": "Retro Rush"
+      },
+      "actionPhaseCollectablePoints": 1,
+      "actionPhasePointsLimit": 1,
+      "actionPhasePointsLimitRefreshPeriod": "86400s",
+      "taskPoolRefreshPeriod": "86400s",
+      "taskPools": [
+        {
+          "tasks": [
+            {
+              "points": 20,
+              "taskConfig": {
+                "type": "Punch_N_Minions",
+                "goal": 5.0
+              }
+            },
+            {
+              "points": 35,
+              "taskConfig": {
+                "type": "Play_N_Times",
+                "goal": 3.0
+              }
+            },
+            {
+              "points": 25,
+              "taskConfig": {
+                "type": "Run_N_Seconds",
+                "goal": 60.0
+              }
+            },
+            {
+              "points": 30,
+              "taskConfig": {
+                "type": "Revive_N_Times",
+                "goal": 1.0
+              }
+            },
+            {
+              "points": 50,
+              "taskConfig": {
+                "type": "Play_N_Times",
+                "goal": 1.0
+              },
+              "isPremium": true
+            },
+            {
+              "points": 50,
+              "taskConfig": {
+                "type": "Run_N_Seconds",
+                "goal": 30.0
+              },
+              "isPremium": true
+            }
+          ]
+        }
+      ],
+      "milestones": [
+        {
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_EmergencyTeam",
+              "amount": 10
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_EmergencyTeam",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 100,
+          "premiumRewards": [
+            {
+              "item": "DynamicReward",
+              "amount": 1,
+              "aux": 3,
+              "contents": [
+                {
+                  "item": "Minion_36_Starfish",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_149_Ukrainian_Cossack",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_106_Grenadier",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_91_Warrior",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_76_Peace_and_Love",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_133_Stuart_Artist",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_71_Cancan",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_152_Catrina",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_68_Workout",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_54_Soccer",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_94_Luchador",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_66_Spy",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_04_Ninja",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_115_Bob_Engineer",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_21_Worker",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_90_Elf",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_28_SnowBoarder",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_124_Stuart_Stooart",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_31_Santa",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_137_Bob_Holiday",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_74_Sweater",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_168_Carl_RelicRaider",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_170_ApplePie",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_166_Kevin_Hotdog",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_163_HoneyBadger",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_164_Stuart_Jellyfish",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_172_Stuart_None",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_79_Soccer_Fan",
+                  "amount": 1
+                },
+                {
+                  "item": "Key_Golden",
+                  "amount": 20
+                },
+                {
+                  "item": "Token",
+                  "amount": 1000
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "points": 150,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_MinionArmor",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_HistoryLessons",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 200,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_HistoricalGuards",
+              "amount": 10
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_HistoricalGuards",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 250,
+          "freeRewards": [
+            {
+              "item": "Token",
+              "amount": 50
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 300,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_JetBoosters",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_SportsExperts",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 350,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_HistoryLessons",
+              "amount": 10
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_Villains",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 400,
+          "premiumRewards": [
+            {
+              "item": "Token",
+              "amount": 250
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 5
+            },
+            {
+              "item": "BoosterEnergy_RocketBlade",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "points": 450,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_Smasher",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_BeachAdventures",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 500,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_SportsExperts",
+              "amount": 15
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_EmergencyTeam",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 550,
+          "freeRewards": [
+            {
+              "item": "Token",
+              "amount": 75
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 600,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_PogoStick",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_HistoryLessons",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 650,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_Villains",
+              "amount": 15
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_HistoricalGuards",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 700,
+          "premiumRewards": [
+            {
+              "item": "Token",
+              "amount": 250
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 5
+            },
+            {
+              "item": "BoosterEnergy_RocketBlade",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "points": 750,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_MinionArmor",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_SportsExperts",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 800,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_BeachAdventures",
+              "amount": 15
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_Villains",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 850,
+          "freeRewards": [
+            {
+              "item": "Token",
+              "amount": 100
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "points": 900,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_JetBoosters",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_LoveAir",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 950,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_LoveAir",
+              "amount": 15
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_TalentShowcase",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 1000,
+          "premiumRewards": [
+            {
+              "item": "Token",
+              "amount": 250
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 5
+            },
+            {
+              "item": "BoosterEnergy_RocketBlade",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "points": 1050,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_Smasher",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_DarkSideMinions",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 1100,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_TalentShowcase",
+              "amount": 20
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_MusicHeart",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 1150,
+          "freeRewards": [
+            {
+              "item": "Token",
+              "amount": 150
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "points": 1200,
+          "freeRewards": [
+            {
+              "item": "BoosterEnergy_PogoStick",
+              "amount": 2
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_PartyTime",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 1250,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_DarkSideMinions",
+              "amount": 20
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_WelcomeFamily",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 1300,
+          "premiumRewards": [
+            {
+              "item": "Token",
+              "amount": 250
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 5
+            },
+            {
+              "item": "BoosterEnergy_RocketBlade",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "points": 1350,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_PartyTime",
+              "amount": 20
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_PartyTime",
+              "amount": 50
+            }
+          ]
+        },
+        {
+          "points": 1400,
+          "freeRewards": [
+            {
+              "item": "CollectionSticker_MusicHeart",
+              "amount": 20
+            }
+          ],
+          "premiumRewards": [
+            {
+              "item": "CollectionSticker_HoHoHo",
+              "amount": 40
+            }
+          ]
+        },
+        {
+          "points": 1500,
+          "premiumRewards": [
+            {
+              "item": "DynamicReward",
+              "amount": 1,
+              "aux": 4,
+              "contents": [
+                {
+                  "item": "Minion_142_Stuart_Thong",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_30_Disguised",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_123_Pilgriminion",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_134_Kevin_Hippie",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_24_Singer",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_52_Carl_CarnivalHat",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_157_BobZodiac",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_23_Referee",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_87_Niko",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_100_Thief",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_17_Girl",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_25_Hunter",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_50_Carl_SantaHat",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_136_Stuart_Snakey",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_151_BananaMan",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_130_Bob_Stewardess",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_06_ElMariachi",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_112_Stuart_IceCream",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_46_Carl_None",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_47_Jerry_None",
+                  "amount": 1
+                },
+                {
+                  "item": "Key_Golden",
+                  "amount": 5
+                },
+                {
+                  "item": "Token",
+                  "amount": 250
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "repeatedMilestone": {
+        "points": 90,
+        "reward": [
+          {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": 5,
+            "contents": [
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 1,
+                "aux": 10
+              }
+            ]
+          }
+        ]
+      },
+      "pointConversion": {
+        "item": "Token",
+        "amount": 3
+      },
+      "skin": {
+        "Type": "SeasonPassTheme",
+        "Id": "1256993282",
+        "label": "SP_RetroRush",
+        "preview": "https://iris07-gold-ssl.gameloft.com/mru/sem_asset_img_11409690525f0868a99919a75585502d67bf3dd2ddc502eb345f14d73e91afa6_1781711770.860495.png",
+        "template": {
+          "_SPT_EventMenuEntryArt": {
+            "image": "sem_asset_img_c566812bf59c0522ea7e2a52974dee3a7a9aba369bf4e0c9899a8e45a12440f9.png"
+          },
+          "_SPT_PremiumTicketLargeArt": {
+            "image": "sem_asset_img_c907227b38439764031e773b139566bf34eaa768b260de816e9e7e0628d5feff.png"
+          },
+          "_SPT_MenuBannerArt": {
+            "image": "sem_asset_img_3a23ca184349201f6a8aa05a64bdf09b532d9dad309a20d5ae4dab1665443afd.png"
+          },
+          "_SPT_PremiumTicketSmallArt": {
+            "image": "sem_asset_img_1c9924da0a0ea29c97f1588a7e31277a60803d41cbab39080c103518ca6c32a2.png"
+          },
+          "_SPT_PremiumPopupBundleArt": {
+            "image": "sem_asset_img_190082bf0bb52fe1ee0401da30bc145a99d1ffa0b279e314356dc623e4ef0b35.png"
+          },
+          "_SPT_MainMenuEntryBackground": {
+            "image": "sem_asset_img_7bc4fc4de4eda8cd3747de2c73ed7e17327d291222099449d63ca41c510def2f.png"
+          },
+          "_SPT_StartPopupArt": {
+            "image": "sem_asset_img_b43928105626c4ec32ad58a1772d597d5718c2bd1214c0c9e5a256026dd3bf57.png"
+          },
+          "_SPT_MenuBackgroundPatternArt": {
+            "image": "sem_asset_img_667ed6d8159c99a1af0df14b80e02410b25629654eb0d568e578cd8db2608138.png"
+          },
+          "_SPT_PointsIcon": {
+            "image": "sem_asset_img_11409690525f0868a99919a75585502d67bf3dd2ddc502eb345f14d73e91afa6.png"
+          },
+          "_SPT_PointsIconText": {
+            "nested": {
+              "Type": "SpriteGlyph",
+              "label": "_SPT_PointsIconText",
+              "preview": "sem_asset_img_11409690525f0868a99919a75585502d67bf3dd2ddc502eb345f14d73e91afa6.png",
+              "template": {
+                "_Scale": {
+                  "number": 1.0
+                },
+                "_OffsetX": {
+                  "number": 0.0
+                },
+                "_OffsetY": {
+                  "number": 111.0
+                },
+                "_Sprite": {
+                  "image": "sem_asset_img_14d46a6466d986d3d6573bce7217660951bf2ab26f5d2ed73a12151397c991bd.png"
+                },
+                "_XAdvance": {
+                  "number": 128.0
+                }
+              }
+            }
+          },
+          "value": {
+            "string": "SP_RetroRush"
+          },
+          "_SPT_HowToPlayArtFirtsItem": {
+            "image": "sem_asset_img_961df15ae96ec7929d8a5ea0cdb4d852b38a0fe84afd4e340645efb81efcb5aa.png"
+          },
+          "_SPT_FinishPopupArt": {
+            "image": "sem_asset_img_b43928105626c4ec32ad58a1772d597d5718c2bd1214c0c9e5a256026dd3bf57.png"
+          },
+          "_SPT_HowToPlayArtSecondItem": {
+            "image": "sem_asset_img_6e282402bd3afea9bb2a07d6b17b99e9cc410e4a17efc34f9456b308acfb7660.png"
+          }
+        }
+      }
+    }
+  ],
+  "duelEvents": [
+    {
+      "startTime": "2026-09-21T00:00:00Z",
+      "endTime": "2026-09-27T23:59:00Z",
+      "eventId": "8aeb3f66-aef1-11f1-9e4b-2648983faa15",
+      "name": "Duel_UPD103_Minion_68_Workout_WT_2109_2709",
+      "priority": 1,
+      "title": {
+        "pt_br": "Mistura dos Minions",
+        "zh_tw": "\u5c0f\u5c0f\u5175\u5927\u4e82\u9b25",
+        "ar": "\u062e\u0644\u064a\u0637 \u0627\u0644\u0645\u064a\u0646\u064a\u0648\u0646",
+        "uk": "\u041f\u043e\u043f\u0443\u0440\u0456 \u043f\u043e\u0441\u0456\u043f\u0430\u043a",
+        "it": "Mix dei Minion",
+        "id": "Gabungan Minion",
+        "tr": "Minyon Karma\u015fas\u0131",
+        "fr": "M\u00eal\u00e9e de Minions",
+        "ko": "\ubbf8\ub2c8\uc5b8 \ub9e4\uc2dc\uc5c5",
+        "de": "Minion-Mischmasch",
+        "es": "Machaque Minion",
+        "ja": "\u30df\u30cb\u30aa\u30f3\u30fb\u30de\u30c3\u30b7\u30e5\u30a2\u30c3\u30d7",
+        "zh_cn": "\u5c0f\u9ec4\u4eba\u5927\u6df7\u6218",
+        "th": "\u0e21\u0e34\u0e19\u0e40\u0e19\u0e35\u0e22\u0e19\u0e41\u0e21\u0e0a\u0e2d\u0e31\u0e1e",
+        "ru": "\u041c\u0438\u043d\u044c\u043e\u043d\u0441\u043a\u043e\u0435 \u043f\u043e\u043f\u0443\u0440\u0440\u0438",
+        "en": "Minion Mash-Up"
+      },
+      "skins": {
+        "value": "DuelNewTemplate",
+        "_D_HeaderImage": "sem_asset_img_3354008e89f3c43bde440c394f647542f0cdd1e8883dcccb95d4f52776948f23.png",
+        "_type": "DuelTemplate",
+        "label": "DuelNewTemplate",
+        "_D_EntryPointImage": "sem_asset_img_6c7e435127c697e96b8499ec9002feb55261a2496df90935a5e030319dbe5c34.png",
+        "_D_PopUpArt": "sem_asset_img_03971e6a40f05ca8c064a386c3503283a99d8d826db546ca65a6aa4e8f78cafc.png",
+        "_D_EntryPointMainMenuImage": "sem_asset_img_147c90751089551c74df8e36302fd4f988554ce036f56d8feee60ca83c95c2d2.png"
+      },
+      "duelPointsForChestOpen": 150,
+      "ticketsPerDay": 5,
+      "winCoef": 30,
+      "looseCoef": 15,
+      "pointsPerBoss": [
+        20,
+        25,
+        28,
+        32,
+        45
+      ],
+      "minDifficulty": 300,
+      "rewardsPerChest": 5,
+      "maxDifficulty": 3000,
+      "pointsPerBonusBossMin": 30,
+      "pointsPerBonusBossMax": 60,
+      "newDayWinMultiplierPercent": 30,
+      "locations": [
+        "Location_Laboratory",
+        "Location_Residential",
+        "Location_Pier",
+        "Location_Fort",
+        "Location_BalthazarLair",
+        "Location_Mall"
+      ],
+      "reward": {
+        "item": "GachaReward",
+        "amount": 5,
+        "aux": 6,
+        "contents": [
+          {
+            "item": "Minion_68_Workout",
+            "amount": 1,
+            "aux": -5
+          },
+          {
+            "item": "CollectionSticker_EmergencyTeam",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_HistoricalGuards",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_HistoryLessons",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_SportsExperts",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_Villains",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_BeachAdventures",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_LoveAir",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_TalentShowcase",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_DarkSideMinions",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_MusicHeart",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_PartyTime",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_WelcomeFamily",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_HardWorkers",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_HoHoHo",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_AnimalsFriends",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_KigurumiFans",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_Pioneers",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "CollectionSticker_SportLifestyle",
+            "amount": 20,
+            "aux": -10
+          },
+          {
+            "item": "BoosterEnergy_JetBoosters",
+            "amount": 2,
+            "aux": -10
+          },
+          {
+            "item": "BoosterEnergy_MinionArmor",
+            "amount": 2,
+            "aux": -10
+          },
+          {
+            "item": "BoosterEnergy_PogoStick",
+            "amount": 2,
+            "aux": -10
+          },
+          {
+            "item": "BoosterEnergy_RocketBlade",
+            "amount": 2,
+            "aux": -10
+          },
+          {
+            "item": "BoosterEnergy_Smasher",
+            "amount": 2,
+            "aux": -10
+          },
+          {
+            "item": "Key_Golden",
+            "amount": 1,
+            "aux": -15
+          },
+          {
+            "item": "Key_Golden",
+            "amount": 3,
+            "aux": -15
+          },
+          {
+            "item": "Key_Golden",
+            "amount": 5,
+            "aux": -15
+          },
+          {
+            "item": "Key_Silver",
+            "amount": 1,
+            "aux": -15
+          },
+          {
+            "item": "Key_Silver",
+            "amount": 3,
+            "aux": -15
+          },
+          {
+            "item": "Key_Silver",
+            "amount": 5,
+            "aux": -15
+          },
+          {
+            "item": "WorldTourItem",
+            "amount": 20,
+            "aux": -15
+          },
+          {
+            "item": "WorldTourItem",
+            "amount": 40,
+            "aux": -15
+          },
+          {
+            "item": "WorldTourItem",
+            "amount": 60,
+            "aux": -15
+          },
+          {
+            "item": "WorldTourItem",
+            "amount": 80,
+            "aux": -15
+          },
+          {
+            "item": "WorldTourItem",
+            "amount": 100,
+            "aux": -15
+          }
+        ]
+      }
+    }
+  ],
+  "worldTourEvents": [
+    {
+      "startTime": "2026-03-02T00:00:00Z",
+      "endTime": "2027-02-28T23:59:00Z",
+      "eventId": "5418f268-1585-11f1-843a-b8ca3a634708",
+      "name": "World_Tour_Umbrella_All",
+      "priority": 1,
+      "title": {
+        "pt_br": "Tour Mundial",
+        "zh_tw": "\u4e16\u754c\u5de1\u8ff4",
+        "ar": "\u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629",
+        "uk": "\u041d\u0430\u0432\u043a\u043e\u043b\u043e\u0441\u0432\u0456\u0442\u043d\u0456\u0439 \u0442\u0443\u0440",
+        "it": "Giro del mondo",
+        "id": "Tur Dunia",
+        "tr": "D\u00fcnya Turu",
+        "fr": "Tourn\u00e9e mondiale",
+        "ko": "\uc6d4\ub4dc \ud22c\uc5b4",
+        "de": "Welttournee",
+        "es": "Tour Mundial",
+        "ja": "\u4e16\u754c\u65c5\u884c",
+        "zh_cn": "\u4e16\u754c\u5de1\u6e38",
+        "th": "\u0e40\u0e27\u0e34\u0e25\u0e14\u0e4c\u0e17\u0e31\u0e27\u0e23\u0e4c",
+        "ru": "\u041c\u0438\u0440\u043e\u0432\u043e\u0435 \u0442\u0443\u0440\u043d\u0435",
+        "en": "World Tour"
+      },
+      "keysCapacity": 20,
+      "itemsCapacity": 1675,
+      "totalStages": 13,
+      "stages": [
+        {
+          "eventId": "cbd45baa-290b-11f1-8b75-b8ca3a60b3cc",
+          "startTime": "2026-03-02T00:00:00Z",
+          "endTime": "2026-03-29T23:59:00Z",
+          "title": {
+            "pt_br": "Flor Japonesa",
+            "zh_tw": "\u65e5\u672c\u6afb\u82b1\u5b63",
+            "ar": "\u0632\u0647\u0631\u0629 \u064a\u0627\u0628\u0627\u0646\u064a\u0629",
+            "uk": "\u0426\u0432\u0456\u0442\u0456\u043d\u043d\u044f \u043f\u043e-\u044f\u043f\u043e\u043d\u0441\u044c\u043a\u0438",
+            "it": "Fioritura giapponese",
+            "id": "Bunga Jepang",
+            "tr": "Japon \u00c7i\u00e7ekleri",
+            "fr": "Floraison japonaise",
+            "ko": "\uc77c\ubcf8\uc758 \uaf43",
+            "de": "Japanische Bl\u00fcte",
+            "es": "Floraci\u00f3n japonesa",
+            "ja": "\u82b1\u54b2\u3051\u308b\u65e5\u672c",
+            "zh_cn": "\u65e5\u5f0f\u7e41\u82b1",
+            "th": "\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19\u0e1a\u0e32\u0e19\u0e2a\u0e30\u0e1e\u0e23\u0e31\u0e48\u0e07",
+            "ru": "\u0426\u0432\u0435\u0442\u0435\u043d\u0438\u0435 \u043f\u043e-\u044f\u043f\u043e\u043d\u0441\u043a\u0438",
+            "en": "Japanese Blossom"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 7,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741816,
+            "contents": [
+              {
+                "item": "AvatarFrame_Japan_WT",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_Japan_WT",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_c6c22cbbc7ab1bb2a0376f9f9b528ef33c5c0455b0e24a053b5e579c95da3302.png",
+            "label": "World Tour Event Japan",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event Japan",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_792f177ad2dbd2cb7cc979ab86c74abbb8d228b8c75654f9cadd8d4d0e3e933a.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_6f8894562717a6faec143c3205fff1333e3964566600ab998b3dc999dd1c8f70.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_a4b265ae310de1b6111471179b29a818ee268b661f9a5ffda9e688489713926b.png",
+            "_WT_DioramaMask_1": "sem_asset_img_ce651ccbcf5a7b0cfcd0f8b86a6f46a42c803b943ce483e1d4dd02c02ebae1be.png",
+            "_WT_Diorama_9": "sem_asset_img_869dba067e0ba4d7531bdbc2cac2442a1b70cd1640afed10bbffecae43b19d56.png",
+            "_WT_DioramaMask_2": "sem_asset_img_26605fcca9298981913e370564bfede4e567b17317360552be7181568967394f.png",
+            "_WT_DioramaMask_13": "sem_asset_img_071f888b419a08463c655cd9c28ce6c4276daef43c8916f1ae2fdf35ca4cf38b.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_937b05a9c19d9d2c6880d22e37cdd4e5d9ff3314fac7968fc629a55fec8f1008.png",
+            "_WT_Diorama_3": "sem_asset_img_0322df9ae29fdc552d0a042051053c2a03d56899e5b994734289a9353ceeb41a.png",
+            "_WT_Diorama_6": "sem_asset_img_270abc4b68228eb57773c850887f9a9856ca3c1bc4c767fd46467cdc24fa26ef.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_5e20eac31bffe5a4b17ca7ee8a7f9ffce40985550a4c3d4f3c9643eff797bbb9.png",
+            "_WT_Diorama_2": "sem_asset_img_53a0e7513931cc20bbe1bc39162e7dba06b34418231a807940a8086f99db0caf.png",
+            "_WT_DioramaMask_12": "sem_asset_img_071f888b419a08463c655cd9c28ce6c4276daef43c8916f1ae2fdf35ca4cf38b.png",
+            "_WT_DioramaMask_6": "sem_asset_img_f53fdf2b8b22d0541b306729009245bb4bf13750fdaca33eb4f4af9e9f2a7852.png",
+            "_WT_Diorama_13": "sem_asset_img_6145fe4f7fe4d55ab9849d9e0399701670d43263d8fd3233cfee88bbe53950cb.png",
+            "_WT_DioramaMask_11": "sem_asset_img_d6f7e0b281b63712d89db85e21455518820c030a7677e410049a226fbd6b1739.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_51250d5b94ab655058b1fc7a8da9bc68fdc12afbb67403fa6da440f08beaadc6.png",
+            "_WT_Diorama_12": "sem_asset_img_ef9f659da71dd3cc889fa0ebc63053c60be52274c02dd6acbc4f54fab4da8f38.png",
+            "_WT_DioramaMask_9": "sem_asset_img_52ccb32374672e7eee4245ea1065349a52bf2927e704598194c5fe5b1a153280.png",
+            "_WT_DioramaMask_7": "sem_asset_img_f53fdf2b8b22d0541b306729009245bb4bf13750fdaca33eb4f4af9e9f2a7852.png",
+            "_WT_DioramaMask_10": "sem_asset_img_d6f7e0b281b63712d89db85e21455518820c030a7677e410049a226fbd6b1739.png",
+            "_WT_DioramaMask_15": "sem_asset_img_df5146c578413a55d55cac3f411544cef8593f780dece33a2adffebc46ed7d03.png",
+            "_WT_Diorama_10": "sem_asset_img_96e3babd88cdbbdd60228213c833ac2a1a6c36525edfb16d148b698c0cdb7306.png",
+            "_WT_DioramaMask_5": "sem_asset_img_e406ac399d7442fd82365405a6311bb601ba17c04bcdaaaf7b6c77bc66285d09.png",
+            "_WT_Diorama_5": "sem_asset_img_5385a7f24d776c47655aaea7a367e752c74b853ed9f3cd7a2ec346eb2051b938.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_27c64043dd4c1c1703acc6216adc7164f2577e8e24e07dfd70432841f1874534.png",
+            "value": "World Tour Stage Japan",
+            "_WT_Diorama_14": "sem_asset_img_5f266924ec0b5500962348d6f1aa86be279ab83a6738bf38e185231f06a1eaf8.png",
+            "_WT_Diorama_4": "sem_asset_img_a0acb38d0b2d0d02861cf77f77082bcda6f7c2c23f0e67125ddeda671b18973f.png",
+            "_WT_DioramaMask_4": "sem_asset_img_e406ac399d7442fd82365405a6311bb601ba17c04bcdaaaf7b6c77bc66285d09.png",
+            "label": "World Tour Stage Japan",
+            "_WT_DioramaMask_0": "sem_asset_img_ce651ccbcf5a7b0cfcd0f8b86a6f46a42c803b943ce483e1d4dd02c02ebae1be.png",
+            "_WT_DioramaMask_14": "sem_asset_img_df5146c578413a55d55cac3f411544cef8593f780dece33a2adffebc46ed7d03.png",
+            "_WT_Diorama_16": "sem_asset_img_9fa89dae3a3fa635ac6bec705e39758cef6618d2a5f17cf4bc0baabaa50a929a.png",
+            "_WT_Diorama_11": "sem_asset_img_f244abc53857cf6a9a7fb87cdbd7f2b9a268b5445f7b02284cc67829bb54fbed.png",
+            "_WT_DioramaMask_8": "sem_asset_img_52ccb32374672e7eee4245ea1065349a52bf2927e704598194c5fe5b1a153280.png",
+            "_WT_DioramaMask_3": "sem_asset_img_26605fcca9298981913e370564bfede4e567b17317360552be7181568967394f.png",
+            "_WT_Diorama_15": "sem_asset_img_a8dbb08f0a1bc4bdb90f0a5a1aa14485483132b63c7abdd97b6b222a3411ab01.png",
+            "_WT_Diorama_0": "sem_asset_img_c8e2e646a5ada9f4c0c9a1f9f663863a677364ae7ff58440cbfaff41c3783ebc.png",
+            "_WT_Diorama_8": "sem_asset_img_46e8f04998fb05fc446fff531200127a055b99f9336bc854ae8e6345f20a9486.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125,
+            125,
+            150,
+            150,
+            150
+          ]
+        },
+        {
+          "eventId": "d5675338-290c-11f1-9528-b8ca3a634708",
+          "startTime": "2026-03-29T23:59:00Z",
+          "endTime": "2026-04-26T23:59:00Z",
+          "title": {
+            "pt_br": "Alpes Alem\u00e3es",
+            "zh_tw": "\u5fb7\u570b\u9ad8\u5cf0",
+            "ar": "\u062c\u0628\u0627\u0644 \u0627\u0644\u0623\u0644\u0628 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629",
+            "uk": "\u041d\u0456\u043c\u0435\u0446\u044c\u043a\u0435 \u0432\u0438\u0441\u043e\u043a\u043e\u0433\u0456\u0440'\u044f",
+            "it": "Montagna tedesca",
+            "id": "Alpen Jerman",
+            "tr": "Almanya Alpleri",
+            "fr": "Montagnes allemandes",
+            "ko": "\ub3c5\uc77c \uc0b0\uc545\uc9c0\ub300",
+            "de": "Deutsche Alpen",
+            "es": "Monta\u00f1as alemanas",
+            "ja": "\u30b8\u30e3\u30fc\u30de\u30f3\u30fb\u30a2\u30eb\u30d7\u30b9",
+            "zh_cn": "\u5fb7\u5cad\u98ce\u5149\u00a0",
+            "th": "\u0e40\u0e17\u0e37\u0e2d\u0e01\u0e40\u0e02\u0e32\u0e40\u0e22\u0e2d\u0e23\u0e21\u0e31\u0e19",
+            "ru": "\u041d\u0435\u043c\u0435\u0446\u043a\u043e\u0435 \u0432\u044b\u0441\u043e\u043a\u043e\u0433\u043e\u0440\u044c\u0435",
+            "en": "German Alpine"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 9,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741814,
+            "contents": [
+              {
+                "item": "AvatarFrame_Germany_WT",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_Germany_WT",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_c6c22cbbc7ab1bb2a0376f9f9b528ef33c5c0455b0e24a053b5e579c95da3302.png",
+            "label": "World Tour Event Germany",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event Germany",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_219bf959f97c64a1397fede1c53ea94d1520eaf4d4b406236e1704fc6ae67d2b.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_cc60aa0093e0dfc8ae34a81c286dd0d7e4ee0a8fd67ebfebafe7ffb7110c02c1.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_8f880308ac8f4402cca1d63740063d8d216d15da96fc5993bd8cda168fdc72a4.png",
+            "_WT_DioramaMask_1": "sem_asset_img_cbde60938decca43a33090b173fc12afafd6838fc01bc97e46384e244179f068.png",
+            "_WT_Diorama_9": "sem_asset_img_cab4bf46884ace12f56d9f9cbe8d4a32a58eced20147edb32190d0e7cb32ed49.png",
+            "_WT_DioramaMask_2": "sem_asset_img_913b27ba65ebcc0b4cb3e2481b24bbc7a2750f1cdd4d538e0a22c0c4f1ee7ed0.png",
+            "_WT_DioramaMask_13": "sem_asset_img_f18ca41ab088b76d55bb412667cf90e6705f5d2aa85b64803a8831150ceee5d6.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_19223c8317dcdd482069f4c857924e3437bc76e0109c78f269bd88b4b51d63be.png",
+            "_WT_Diorama_3": "sem_asset_img_1d08c7d11651e2e5f5c2420acb54c6da18fbf5efb5459051b30b16f60d3a2f57.png",
+            "_WT_Diorama_6": "sem_asset_img_7ae2e44cc3879597cf7ea4834bf39c8315a553212c337270930c6684df8ff28d.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_66d69ca4ef0c7ef1d8d1fbb9b340f9bc204e08f34dac9933876c2825fb91a9b1.png",
+            "_WT_Diorama_2": "sem_asset_img_2b9911d8675a743a75f9b821c38320296b9207dae6b8cbebd0ef44f93689b638.png",
+            "_WT_DioramaMask_12": "sem_asset_img_f18ca41ab088b76d55bb412667cf90e6705f5d2aa85b64803a8831150ceee5d6.png",
+            "_WT_DioramaMask_6": "sem_asset_img_17c7e57583a9379e91ebed3fc1627387018c263d8be09bf2462bb23f9e3ade75.png",
+            "_WT_Diorama_13": "sem_asset_img_40ea6be83dc06e6cef59ad5f9025361e6f58ba95f916c2cc841e86503ab7f8ba.png",
+            "_WT_DioramaMask_11": "sem_asset_img_6ea956aa9d502d61b756e4a888471a123b52c98b8f538f659f5261a74894155c.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_1900ed95f78c2b763a12996c814bbbb5427d32c593fb545c2a5805275e4ddc2b.png",
+            "_WT_Diorama_12": "sem_asset_img_4b5f497ad37cc49314c6eb4f79ac31bf19e0cffe0e49c202f3d8416b0bd6d4a0.png",
+            "_WT_DioramaMask_9": "sem_asset_img_69fa93aba4ee1093caed2c8c1f15dce45f0767646b9bc232fcda4f2ca06c9e5d.png",
+            "_WT_DioramaMask_7": "sem_asset_img_17c7e57583a9379e91ebed3fc1627387018c263d8be09bf2462bb23f9e3ade75.png",
+            "_WT_DioramaMask_10": "sem_asset_img_6ea956aa9d502d61b756e4a888471a123b52c98b8f538f659f5261a74894155c.png",
+            "_WT_DioramaMask_15": "sem_asset_img_d6f8729f1afba44bec61326a0072b47943774503985be56f4f0937c944ad94c4.png",
+            "_WT_Diorama_10": "sem_asset_img_bfa515993cfa079b95c1a69627e3a12d4117964d39b0b8e3a91d943b5a0001d0.png",
+            "_WT_DioramaMask_5": "sem_asset_img_c2b68383c3fa376bc8cb4fcf72329069ace03cf65ea8c9d3ac66cad848bf7349.png",
+            "_WT_Diorama_5": "sem_asset_img_fa38f6502a255a15c2edb7a55aef99f9ca980d51f496747897cddd511f06b478.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage Germany",
+            "_WT_Diorama_14": "sem_asset_img_dbfc5ccce8525034be68900c23643c408a70ab31339250585933bf5421ce7197.png",
+            "_WT_Diorama_4": "sem_asset_img_e089bf11e4eac403690edf52c4d8a1ce5dee3b7354cdb92399e8bdb4bd2eda6b.png",
+            "_WT_DioramaMask_4": "sem_asset_img_c2b68383c3fa376bc8cb4fcf72329069ace03cf65ea8c9d3ac66cad848bf7349.png",
+            "label": "World Tour Stage Germany",
+            "_WT_DioramaMask_0": "sem_asset_img_cbde60938decca43a33090b173fc12afafd6838fc01bc97e46384e244179f068.png",
+            "_WT_DioramaMask_14": "sem_asset_img_d6f8729f1afba44bec61326a0072b47943774503985be56f4f0937c944ad94c4.png",
+            "_WT_Diorama_16": "sem_asset_img_2e31564c3b2e0dd968e813c263a603712b97f087c398ae82d78a8501b8dc02ed.png",
+            "_WT_Diorama_11": "sem_asset_img_8b340d20b499cf741d51e98729470491206571a80a8f54b99653a5ee95912d85.png",
+            "_WT_DioramaMask_8": "sem_asset_img_69fa93aba4ee1093caed2c8c1f15dce45f0767646b9bc232fcda4f2ca06c9e5d.png",
+            "_WT_DioramaMask_3": "sem_asset_img_913b27ba65ebcc0b4cb3e2481b24bbc7a2750f1cdd4d538e0a22c0c4f1ee7ed0.png",
+            "_WT_Diorama_15": "sem_asset_img_fde9de05a02e5e913102b788c6cf66a82560bc248e8e7ce2557dd442e1503a4f.png",
+            "_WT_Diorama_0": "sem_asset_img_7699bdca46b2c447be08f1e428bfe021dc98ff350d6b72445cd3915f91f97707.png",
+            "_WT_Diorama_8": "sem_asset_img_e91ad145eed1a4f8b2aa467fd05ddfd9a8227bfc7c866652d7bdcb3f42d9fb3e.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125,
+            125,
+            150,
+            150,
+            150
+          ]
+        },
+        {
+          "eventId": "e71e8fac-3d56-11f1-9dd8-b8ca3a60b3cc",
+          "startTime": "2026-04-26T23:59:00Z",
+          "endTime": "2026-05-24T23:59:00Z",
+          "title": {
+            "pt_br": "Eleg\u00e2ncia Francesa",
+            "zh_tw": "\u6cd5\u5f0f\u512a\u96c5",
+            "ar": "\u0623\u0646\u0627\u0642\u0629 \u0641\u0631\u0646\u0633\u064a\u0629",
+            "uk": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0438\u0439 \u0448\u0438\u043a",
+            "it": "Eleganza francese",
+            "id": "Keanggunan Prancis",
+            "tr": "Frans\u0131z Zarafeti",
+            "fr": "\u00c9l\u00e9gance fran\u00e7aise",
+            "ko": "\uae30\ud488\uc758 \ud504\ub791\uc2a4",
+            "de": "Franz\u00f6sische Eleganz",
+            "es": "Elegancia francesa",
+            "ja": "\u30d5\u30ec\u30f3\u30c1\u30fb\u30a8\u30ec\u30ac\u30f3\u30b9",
+            "zh_cn": "\u6cd5\u5f0f\u4f18\u96c5",
+            "th": "\u0e2b\u0e23\u0e39\u0e2b\u0e23\u0e32\u0e41\u0e1a\u0e1a\u0e1d\u0e23\u0e31\u0e48\u0e07\u0e40\u0e28\u0e2a",
+            "ru": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u0448\u0438\u043a",
+            "en": "French Elegance"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 11,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Minion_153_Stuart_Couturier",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741812,
+            "contents": [
+              {
+                "item": "AvatarFrame_WT_France",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_WT_France",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_c6c22cbbc7ab1bb2a0376f9f9b528ef33c5c0455b0e24a053b5e579c95da3302.png",
+            "label": "World Tour Event France",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event France",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_d23386214d6e986945d32e0563df7012bbcbe81d972f0d8485553e87114a6eeb.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_a4f4481c158c9e0c178fa6c4989b56ceafd54023040948b53f16bd24659ea47c.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_570cfd46a69b17e53732978bfd64d2a9685ccd553e9c710ada98aa086107c220.png",
+            "_WT_DioramaMask_1": "sem_asset_img_5d660788116bcc90382b41f76b2780b52915f8dfd018523811a88cd6e5062dea.png",
+            "_WT_Diorama_9": "sem_asset_img_58573709eeb14aff2d9c77f06c93675c9b586b88eb4979b0c522c4fbf9f72dbd.png",
+            "_WT_DioramaMask_2": "sem_asset_img_8e17ea930004094021611a597412121d0a96c489ff4d794a27cd4983a96a9f7f.png",
+            "_WT_DioramaMask_13": "sem_asset_img_cd61732b9e730184be1bfc282c4d9892b0a347325eb4546faa79b418e6eedb8d.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_71b3259c77281cb0355a58562a4d6a193c010694c63e4194c4e8d5f2a33c23a9.png",
+            "_WT_Diorama_3": "sem_asset_img_e86623bf85a7971d56e02aa27879b6af6e9246e36fb05fcc722215aa0261166c.png",
+            "_WT_Diorama_6": "sem_asset_img_50e4cf131c0e83ecffca68adf5f92e358de4996af19d5e97ac78bf8e58d96d7c.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_4ffdf0664c722a4b40e1e24deec224c7622e402119e1287a4f9d80459b780ce5.png",
+            "_WT_Diorama_2": "sem_asset_img_6701640090b8bad9ed002f6468d11d6744b74c9810f0ec63666c0c55e946d213.png",
+            "_WT_DioramaMask_12": "sem_asset_img_cd61732b9e730184be1bfc282c4d9892b0a347325eb4546faa79b418e6eedb8d.png",
+            "_WT_DioramaMask_6": "sem_asset_img_b0a8a89781e4244aec2e1b589a305da7e032f1653ce95799670312c465ab2083.png",
+            "_WT_Diorama_13": "sem_asset_img_ec9476d9b2a0fcc6afd1a6b99ec2da4794237bd2935faa89421affd132ebf308.png",
+            "_WT_DioramaMask_11": "sem_asset_img_b4ab802b040c61cd6b51ee7e5fa2fe6d662bbe1a6d5103965bae4053b24efc9e.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_2b876b8997de3f10378186dac2fc2a3a1113e43f3615ff8932097aa2f6813b6c.png",
+            "_WT_Diorama_12": "sem_asset_img_5506e7ffd888b94b86a2a5ee252c3887bac477f5c275e22e9cdd192680c61a7d.png",
+            "_WT_DioramaMask_9": "sem_asset_img_49f5adeb13a564c063efb0762ada4618b99dfba91ee2c12e6abf50ad565b2815.png",
+            "_WT_DioramaMask_7": "sem_asset_img_b0a8a89781e4244aec2e1b589a305da7e032f1653ce95799670312c465ab2083.png",
+            "_WT_DioramaMask_10": "sem_asset_img_b4ab802b040c61cd6b51ee7e5fa2fe6d662bbe1a6d5103965bae4053b24efc9e.png",
+            "_WT_DioramaMask_15": "sem_asset_img_7fcbd625d709887599d8d14892921815a12de140bc52184d26816d8fb56ba9ff.png",
+            "_WT_Diorama_10": "sem_asset_img_a32918c9544819071c10f2b4adbf9bfcb1f490035dc1c84c9ee018731d03d3c3.png",
+            "_WT_DioramaMask_5": "sem_asset_img_bdf4be2a57756ae0061dd8d34e7e6aae5d3f6014e212a013287d825f84bb097c.png",
+            "_WT_Diorama_5": "sem_asset_img_40892a4f68fd7a3ac6cadfb48c7d81e6156904e26a214f2531d0440ed6f686a2.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage France",
+            "_WT_Diorama_14": "sem_asset_img_64d046dec994302d22744b167f56a9cabc3642f5d71b98288eacd153c1107291.png",
+            "_WT_Diorama_4": "sem_asset_img_7429ea96278fa762832bb167c1304bfdde040ac9e7cf9fcbc9bd1defc5b800b5.png",
+            "_WT_DioramaMask_4": "sem_asset_img_bdf4be2a57756ae0061dd8d34e7e6aae5d3f6014e212a013287d825f84bb097c.png",
+            "label": "World Tour Stage France",
+            "_WT_DioramaMask_0": "sem_asset_img_5d660788116bcc90382b41f76b2780b52915f8dfd018523811a88cd6e5062dea.png",
+            "_WT_DioramaMask_14": "sem_asset_img_7fcbd625d709887599d8d14892921815a12de140bc52184d26816d8fb56ba9ff.png",
+            "_WT_Diorama_16": "sem_asset_img_16b277877b8970906120b1e82f872283e228853b970db4cbf40c82e6fa72f7c1.png",
+            "_WT_Diorama_11": "sem_asset_img_98a3fc4fb3bff2eb562cd51007926dc01a2a73fec8a0c416f47ab813fe797cb3.png",
+            "_WT_DioramaMask_8": "sem_asset_img_49f5adeb13a564c063efb0762ada4618b99dfba91ee2c12e6abf50ad565b2815.png",
+            "_WT_DioramaMask_3": "sem_asset_img_8e17ea930004094021611a597412121d0a96c489ff4d794a27cd4983a96a9f7f.png",
+            "_WT_Diorama_15": "sem_asset_img_c4b3df283d9b12fcda690a7bd09355c12ef803f27b6b02a025370c3126b1c753.png",
+            "_WT_Diorama_0": "sem_asset_img_15d450e22c36d05109d2538981ed4bd44cb819b9f125476c70fbb01c1e39832f.png",
+            "_WT_Diorama_8": "sem_asset_img_6f9b4edc6bea5456c6dd26d47193fbcc21c1486d7aa5da2f3dd074732ef48610.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125,
+            125,
+            150,
+            150,
+            150
+          ]
+        },
+        {
+          "eventId": "bf03044c-5522-11f1-844b-de99c9160183",
+          "startTime": "2026-05-24T23:59:00Z",
+          "endTime": "2026-06-21T23:59:00Z",
+          "title": {
+            "pt_br": "N\u00e9voa Brit\u00e2nica",
+            "zh_tw": "\u82f1\u502b\u9727\u90fd",
+            "ar": "\u0636\u0628\u0627\u0628 \u0628\u0631\u064a\u0637\u0627\u0646\u064a",
+            "uk": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
+            "it": "Nebbia britannica",
+            "id": "Kabut Inggris",
+            "tr": "\u0130ngiliz Sisi",
+            "fr": "Brouillard britannique",
+            "ko": "\uc548\uac1c\uc758 \uc601\uad6d",
+            "de": "Britischer Nebel",
+            "es": "Niebla brit\u00e1nica",
+            "ja": "\u30d6\u30ea\u30c6\u30a3\u30c3\u30b7\u30e5\u30fb\u30df\u30b9\u30c8",
+            "zh_cn": "\u82f1\u4f26\u8ff7\u96fe",
+            "th": "\u0e21\u0e48\u0e32\u0e19\u0e2b\u0e21\u0e2d\u0e01\u0e2d\u0e31\u0e07\u0e01\u0e24\u0e29",
+            "ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0442\u0443\u043c\u0430\u043d",
+            "en": "British Mist"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 13,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741810,
+            "contents": [
+              {
+                "item": "AvatarFrame_WT_UK",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_WT_UK",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_c6c22cbbc7ab1bb2a0376f9f9b528ef33c5c0455b0e24a053b5e579c95da3302.png",
+            "label": "World Tour Event England",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event England",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_220d12070199aa9719a98317d83e6eac60cb5b889831452d811350dbae867fb2.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_9d60a79c938b18e69a09e4297f24ee4a9f6cbe9cd14de6e15aa584673859c44e.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_6c6fcdd62096c938cb21972d460031e74bc5412fc3306771bfdd6b2761e379c3.png",
+            "_WT_DioramaMask_1": "sem_asset_img_30976289684138c3339d9f7334f20c23d6be96900416b37042ba8a9e2e223352.png",
+            "_WT_Diorama_9": "sem_asset_img_168b90f85bbf0406473895f540c8694c534903b740537429d58d7ed5ea83f519.png",
+            "_WT_DioramaMask_2": "sem_asset_img_6403e98cc3703f13d7c37e631709eadb511329e83b74cbd724a911320f646bc6.png",
+            "_WT_DioramaMask_13": "sem_asset_img_bd22102701bc635fc345d96e882febbe109cafc9f4d71ea0874617bb9d3a974b.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_2d405d53b6704465aead07efa3094d70d5de6e99192b586bba02264df93b3206.png",
+            "_WT_Diorama_3": "sem_asset_img_ba024a6414f8d44dd50f81768af252d21857698ee492ec8fd15e6c818ad008c1.png",
+            "_WT_Diorama_6": "sem_asset_img_88846fbec7e4776e297b6bfa91ece133d6ca5d861054874cc920c66bd91d942d.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_2d0197142bc2cd6e279bbe316bb45754c0ad01d818a3ded6aa02526bb45853d3.png",
+            "_WT_Diorama_2": "sem_asset_img_f6d4e266981e52719cb6a53b6fb244a2f7e7e74e4c2952f05f07f6a58f2a6b69.png",
+            "_WT_DioramaMask_12": "sem_asset_img_bd22102701bc635fc345d96e882febbe109cafc9f4d71ea0874617bb9d3a974b.png",
+            "_WT_DioramaMask_6": "sem_asset_img_c737eddf08a1b75b2043ff41918ad3dc8ef967a5dc3ff0a96c379e102a92c735.png",
+            "_WT_Diorama_13": "sem_asset_img_ee8b144fa3f497595d94315c8c47933158b8fdf96e407feaf795867f88f22ae2.png",
+            "_WT_DioramaMask_11": "sem_asset_img_aebeec37f1dffe1125db28186efc28a77852bab9aafc10734c3aa7b49385348e.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_2d235177ed807838af38a6110cc3aa2cf9e49efe1a7679d833b9e037b27c2407.png",
+            "_WT_Diorama_12": "sem_asset_img_5827c6e063675c45d4baa4e670208092c045aa3669f73a6606bf9bacb6264ac0.png",
+            "_WT_DioramaMask_9": "sem_asset_img_cb8aef791ba13c608c8f46bebc39687e3c6ca7699ca857db0f047b06e261f413.png",
+            "_WT_DioramaMask_7": "sem_asset_img_c737eddf08a1b75b2043ff41918ad3dc8ef967a5dc3ff0a96c379e102a92c735.png",
+            "_WT_DioramaMask_10": "sem_asset_img_aebeec37f1dffe1125db28186efc28a77852bab9aafc10734c3aa7b49385348e.png",
+            "_WT_DioramaMask_15": "sem_asset_img_ebeeb483c2b6b139e8cd173e60841daecc2e50a1779c5d77bfb9d03b364c096e.png",
+            "_WT_Diorama_10": "sem_asset_img_b507b5f76840601f0fb7aee544d43fdcf1d381705116c96ef8c47f46f47c1721.png",
+            "_WT_DioramaMask_5": "sem_asset_img_84cd9ed8041e962a5c4c26f933562b07ff7828dfb7294d2b022c8ea879b4c3a8.png",
+            "_WT_Diorama_5": "sem_asset_img_a62df86efa590b97cd54810c7e0b9bc963333e330292cc14779fbf69a2b68b30.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage England",
+            "_WT_Diorama_14": "sem_asset_img_31bfb461cb6d4d2cab1ed1a980215dd50fc1f427527c6f014d2285d62090ffec.png",
+            "_WT_Diorama_4": "sem_asset_img_469e8507e6d9d08bcf2bbb069fad2b50721c12423997f09115bd8535e48fc755.png",
+            "_WT_DioramaMask_4": "sem_asset_img_84cd9ed8041e962a5c4c26f933562b07ff7828dfb7294d2b022c8ea879b4c3a8.png",
+            "label": "World Tour Stage England",
+            "_WT_DioramaMask_0": "sem_asset_img_30976289684138c3339d9f7334f20c23d6be96900416b37042ba8a9e2e223352.png",
+            "_WT_DioramaMask_14": "sem_asset_img_ebeeb483c2b6b139e8cd173e60841daecc2e50a1779c5d77bfb9d03b364c096e.png",
+            "_WT_Diorama_16": "sem_asset_img_6511b8480dbc42e1dce29fc70b2539d3ea2ade7afca54d57e0011ff6d136270a.png",
+            "_WT_Diorama_11": "sem_asset_img_8089ac124012b2e94161db3257044712e7cae70b1ac58e90db6af8ac8a9b2cc6.png",
+            "_WT_DioramaMask_8": "sem_asset_img_cb8aef791ba13c608c8f46bebc39687e3c6ca7699ca857db0f047b06e261f413.png",
+            "_WT_DioramaMask_3": "sem_asset_img_6403e98cc3703f13d7c37e631709eadb511329e83b74cbd724a911320f646bc6.png",
+            "_WT_Diorama_15": "sem_asset_img_674a19ce531e88ff765d80ea9481b5b351c4be5fd5005cc6cabf87da22ba1547.png",
+            "_WT_Diorama_0": "sem_asset_img_dd4ed9bf4ea3703232468700d5850b04a94450730fa29701eb564bd0a9a7b8f8.png",
+            "_WT_Diorama_8": "sem_asset_img_2c009a8ebe36ec3a2da3be881d34e5693ee8fbd5c417ec522a46d74fac0f6241.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125,
+            125,
+            150,
+            150,
+            150
+          ]
+        },
+        {
+          "eventId": "a84f72f8-6bca-11f1-8b45-1ea7b9b2270f",
+          "startTime": "2026-06-21T23:59:00Z",
+          "endTime": "2026-07-19T23:59:00Z",
+          "title": {
+            "pt_br": "Faroeste Americano",
+            "zh_tw": "\u7f8e\u570b\u62d3\u8352\u8a18",
+            "ar": "\u062d\u062f\u0648\u062f \u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+            "uk": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0444\u0440\u043e\u043d\u0442\u0438\u0440",
+            "it": "Frontiera americana",
+            "id": "Perbatasan Amerika",
+            "tr": "Amerikan S\u0131n\u0131r\u0131",
+            "fr": "Fronti\u00e8re am\u00e9ricaine",
+            "ko": "\ubbf8\uad6d\uc2dd \uac1c\ucc99\uc815\uc2e0",
+            "de": "Wilder Westen",
+            "es": "Frontera americana",
+            "ja": "\u30a2\u30e1\u30ea\u30ab\u30f3\u30fb\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2",
+            "zh_cn": "\u7f8e\u5f0f\u8fb9\u7586",
+            "th": "\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e2d\u0e40\u0e21\u0e23\u0e34\u0e01\u0e32",
+            "ru": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0444\u0440\u043e\u043d\u0442\u0438\u0440",
+            "en": "American Frontier"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 15,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_98_Cowboy",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741808,
+            "contents": [
+              {
+                "item": "AvatarFrame_WT_USA",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_WT_USA",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_c6c22cbbc7ab1bb2a0376f9f9b528ef33c5c0455b0e24a053b5e579c95da3302.png",
+            "label": "World Tour Event USA",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event USA",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_0f7d129754ea5684dc3069b80324f53178755da33a4ffe634ca87af29e225c8b.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_fe9e8c4ed62b4dcca9e3ce29b1e31504971fd16c39c963122c3acbd1f62cfebe.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_820cc3bf125aefa52e3dd31dc32a294a57d06ad008ea8cbc4da93f19da474300.png",
+            "_WT_DioramaMask_1": "sem_asset_img_d6c4b236117bfc1e328b47bcfc44f5a43d5b9b709cc18f59a8ef398cea995cf8.png",
+            "_WT_Diorama_9": "sem_asset_img_5427c4ce00cb49f2b433e2c5e454740611ecb2d4750efaab767d067a8ceb98f3.png",
+            "_WT_DioramaMask_2": "sem_asset_img_e15ccbe19f121dc108d603293e6a1af61eec425912fb098c1d728aa76c77a48f.png",
+            "_WT_DioramaMask_13": "sem_asset_img_04d5b83cd515dc14e93529cbddc2ed4fbed035155e3dcfe11cf309e884a13bc7.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_4becd495f6a4ecb04282a5004bd2f7ec930ebb7f8b31eb068754bb1bf7e0a55d.png",
+            "_WT_Diorama_3": "sem_asset_img_3451f1f4131d3cec6c9a6ff90904ee84e16ec8b216ff1479fcad17dc7a6e5d61.png",
+            "_WT_Diorama_6": "sem_asset_img_6c4314a4741deb21bc4cf7928812beceef2a83ae6f71736e475ace40806bed1a.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_85bbee4e34ad1f6bee7dad4af3560b3e4eaa9071529fa321ef18998a79d17755.png",
+            "_WT_Diorama_2": "sem_asset_img_612f13df05c4ea378dc62aa673d737ffd637402d7b28477247aa258f8a2f2d98.png",
+            "_WT_DioramaMask_12": "sem_asset_img_04d5b83cd515dc14e93529cbddc2ed4fbed035155e3dcfe11cf309e884a13bc7.png",
+            "_WT_DioramaMask_6": "sem_asset_img_a456f31f9909385300f5a4a3444ba3cb22bf97352e31b8599091cf41aae550fb.png",
+            "_WT_Diorama_13": "sem_asset_img_70293ebf67360d15e2ae2ccd20bed76b27d2558ef6596011e8a29cf7d7216174.png",
+            "_WT_DioramaMask_11": "sem_asset_img_55d98722912561d126d8a0e285dd30a8b6e18d7684784a92dd7c1b6b7ef02a78.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_e5aadaa7a0a1b98ff20bc22d44ca958d0807125e7aa66b9f91179837f26b7ad1.png",
+            "_WT_Diorama_12": "sem_asset_img_5ff4e3935a6d6878092d9c6b7afc545714bf8907f827a3147ce5ecf1139d21d3.png",
+            "_WT_DioramaMask_9": "sem_asset_img_811deba59901450eca2b7a391227a3593e00e98124c43b1fefd40f59795e2436.png",
+            "_WT_DioramaMask_7": "sem_asset_img_a456f31f9909385300f5a4a3444ba3cb22bf97352e31b8599091cf41aae550fb.png",
+            "_WT_DioramaMask_10": "sem_asset_img_55d98722912561d126d8a0e285dd30a8b6e18d7684784a92dd7c1b6b7ef02a78.png",
+            "_WT_DioramaMask_15": "sem_asset_img_71b4af067320135090775035b8127dac8a46b7ec65840d2c70d51ac25a8d63be.png",
+            "_WT_Diorama_10": "sem_asset_img_7e1f99c4c0ce09d32348553d75ffa32f1815a06a48c58d56fa25ae2e4ac78870.png",
+            "_WT_DioramaMask_5": "sem_asset_img_4e85b8ef4f5cd8979d3d3a093d7ccc4e8e20ffc50556c540e53373e1d56969ef.png",
+            "_WT_Diorama_5": "sem_asset_img_cab867bc775a791f9064be15027a332152fe5ac966db7a1ddb5ee2b2dbfeaf85.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage USA",
+            "_WT_Diorama_14": "sem_asset_img_6b9f30393952b2052d047ed0f3e76c23b8e760a85bb4634b8deadb7cb18013e6.png",
+            "_WT_Diorama_4": "sem_asset_img_766c39aed563f39bf3c673d4741f1a6435160665a31ef8ef2c1dfcd711548894.png",
+            "_WT_DioramaMask_4": "sem_asset_img_4e85b8ef4f5cd8979d3d3a093d7ccc4e8e20ffc50556c540e53373e1d56969ef.png",
+            "label": "World Tour Stage USA",
+            "_WT_DioramaMask_0": "sem_asset_img_d6c4b236117bfc1e328b47bcfc44f5a43d5b9b709cc18f59a8ef398cea995cf8.png",
+            "_WT_DioramaMask_14": "sem_asset_img_71b4af067320135090775035b8127dac8a46b7ec65840d2c70d51ac25a8d63be.png",
+            "_WT_Diorama_16": "sem_asset_img_8ad50cece41b620593c2f3fed3ba2faa2af868b7028a32ed2c0fc9d27a6a4949.png",
+            "_WT_Diorama_11": "sem_asset_img_54f21a96b86493d039036eec0e7052ba1dbc5e857f0417da6338d80a9dcdef0e.png",
+            "_WT_DioramaMask_8": "sem_asset_img_811deba59901450eca2b7a391227a3593e00e98124c43b1fefd40f59795e2436.png",
+            "_WT_DioramaMask_3": "sem_asset_img_e15ccbe19f121dc108d603293e6a1af61eec425912fb098c1d728aa76c77a48f.png",
+            "_WT_Diorama_15": "sem_asset_img_e3a5432c9b7fcc36cb45b3509f266edf4775bc07719e00bc4940948bce622aac.png",
+            "_WT_Diorama_0": "sem_asset_img_6644442a0ec48652ef94a7c31570ad79845582962f3d9892c7a78f61021fd2ee.png",
+            "_WT_Diorama_8": "sem_asset_img_a5ee460927e8c2dda0ce0c5b69ccb931e2e5df0a691c184554f9db2e5d8e03ee.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125,
+            125,
+            150,
+            150,
+            150
+          ]
+        },
+        {
+          "eventId": "31fcf17c-8c1b-11f1-9cdb-deb1632977a3",
+          "startTime": "2026-07-19T23:59:00Z",
+          "endTime": "2026-08-12T23:59:00Z",
+          "title": {
+            "pt_br": "Fiesta Mexicana",
+            "zh_tw": "\u72c2\u6b61\u58a8\u897f\u54e5",
+            "ar": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0645\u0643\u0633\u064a\u0643\u064a",
+            "uk": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0444\u0456\u0454\u0441\u0442\u0430",
+            "it": "Fiesta messicana",
+            "id": "Pesta Meksiko",
+            "tr": "Meksika Fiestas\u0131",
+            "fr": "Fiesta mexicaine",
+            "ko": "\uba55\uc2dc\ucf54 \ucd95\uc81c",
+            "de": "Mexikanische Fiesta",
+            "es": "Fiesta mexicana",
+            "ja": "\u30e1\u30ad\u30b7\u30ab\u30f3\u30fb\u30d5\u30a3\u30a8\u30b9\u30bf",
+            "zh_cn": "\u58a8\u5f0f\u72c2\u6b22",
+            "th": "\u0e40\u0e17\u0e28\u0e01\u0e32\u0e25\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01",
+            "ru": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0444\u0438\u0435\u0441\u0442\u0430",
+            "en": "Mexican Fiesta"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 17,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_26_TortillaChipHat",
+                "amount": 1
+              },
+              {
+                "item": "Minion_06_ElMariachi",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741806,
+            "contents": [
+              {
+                "item": "AvatarFrame_WT_Mexico",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_WT_Mexico",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_c6c22cbbc7ab1bb2a0376f9f9b528ef33c5c0455b0e24a053b5e579c95da3302.png",
+            "label": "World Tour Event Mexico",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event Mexico",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_a40f5aac6b6091b9be6ce85ea5a4e0bed03282f983ee0b61ae8fdff0248ee6fe.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_fc1e0ae64155878f057d214f3286496466f610e826b774674757380d6abd04d2.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_80e70410a4e52355bbddb961c6e3a4951c162a6f7ee193a6ad062ec33d60a716.png",
+            "_WT_DioramaMask_1": "sem_asset_img_757c127b6aca38898b1c49737ba94c3e6f69854ee2d3170c8f62aba38517dc9d.png",
+            "_WT_Diorama_9": "sem_asset_img_b5cace9ddc358541eee8f6850db6766d28924400e74d1c33b6475b3965762324.png",
+            "_WT_DioramaMask_2": "sem_asset_img_e8f62c62b6780c359bf8a8d0138198365609350c61c1fa2ec101edefcbfa0cd3.png",
+            "_WT_DioramaMask_13": "sem_asset_img_bfa7ce45edeedc27fcd0999a8ea61dc12283d1fded2010edad50922dc9f7ff22.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_e0700ba28f0d59641844454c8cb5a4b7c7cb6aac76feca07f75c00da13a91174.png",
+            "_WT_Diorama_3": "sem_asset_img_6b6d9c07f1844456a8704d79bdc524be6b68ff34b7723338d52299f93b08c2b5.png",
+            "_WT_Diorama_6": "sem_asset_img_d3c6267862550144f258c263aff8dbf52bf67df305abe9669d2a5c88d9ad289b.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_780aec5793f6c7440b80cab68e18dabdd2fbd6547df202987b9022c28a6a47dd.png",
+            "_WT_Diorama_2": "sem_asset_img_0f4e0d425aeb409659cdd900810b5ba955bcfa746426a6f0157dc7f2abef83fd.png",
+            "_WT_DioramaMask_12": "sem_asset_img_bfa7ce45edeedc27fcd0999a8ea61dc12283d1fded2010edad50922dc9f7ff22.png",
+            "_WT_DioramaMask_6": "sem_asset_img_6fbf5d2447f38e86cee4cdffe724615021e66383a2335dd39a6541e86fc1908d.png",
+            "_WT_Diorama_13": "sem_asset_img_a62fd3406f2565087c9044392298fe93a48d7bf08011c8aac879c56cba06139f.png",
+            "_WT_DioramaMask_11": "sem_asset_img_f99065a17e0892ddda3bc17471e9a4791d3730461445d418e2ad31cf09606b13.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_4ad457081d5cea98e35715ef4a2a0089f67aba42dec62e7b64182023be01a0ca.png",
+            "_WT_Diorama_12": "sem_asset_img_89fb288cb7802426411d421259a5573d32abc2c21a400a0d8cb234ca616aa838.png",
+            "_WT_DioramaMask_9": "sem_asset_img_fdacd4809274279cf6ebca7c6405311f80ed1666536a039ede810ebeb13c7a26.png",
+            "_WT_DioramaMask_7": "sem_asset_img_6fbf5d2447f38e86cee4cdffe724615021e66383a2335dd39a6541e86fc1908d.png",
+            "_WT_DioramaMask_10": "sem_asset_img_f99065a17e0892ddda3bc17471e9a4791d3730461445d418e2ad31cf09606b13.png",
+            "_WT_DioramaMask_15": "sem_asset_img_bff1a6e19a37d982cf1b33ef9b83fac3a8345a9194c8346cf68d4f61fa5ec8d4.png",
+            "_WT_Diorama_10": "sem_asset_img_3d4a9daeab79d460ee85a421af55f316563fa531c1f57e0bbb98b5feee142a32.png",
+            "_WT_DioramaMask_5": "sem_asset_img_023adaf3c423e3bd948230dc9dae9a6aabc1dafea4a508fdd19d1b2f4a828e5e.png",
+            "_WT_Diorama_5": "sem_asset_img_a506ee26e01d6daab2d80ad493293973d6db245d8a3c8128f8f4f98723d793f1.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage Mexico",
+            "_WT_Diorama_14": "sem_asset_img_c50d85be851e16f566ac3c43949a0e8cc5d3200b70e43db3c59ba2c502e69067.png",
+            "_WT_Diorama_4": "sem_asset_img_71e45be4bfc77bb5050e3e1c6320f12637bc185bc6054a54520a829fb2476884.png",
+            "_WT_DioramaMask_4": "sem_asset_img_023adaf3c423e3bd948230dc9dae9a6aabc1dafea4a508fdd19d1b2f4a828e5e.png",
+            "label": "World Tour Stage Mexico",
+            "_WT_DioramaMask_0": "sem_asset_img_757c127b6aca38898b1c49737ba94c3e6f69854ee2d3170c8f62aba38517dc9d.png",
+            "_WT_DioramaMask_14": "sem_asset_img_bff1a6e19a37d982cf1b33ef9b83fac3a8345a9194c8346cf68d4f61fa5ec8d4.png",
+            "_WT_Diorama_16": "sem_asset_img_4a1917514adf04272f3b9154e9860d132a1d74dfd018b63805a82bb1de03252d.png",
+            "_WT_Diorama_11": "sem_asset_img_50ee12ee89079f0c000d9555be7eb804ef04a66c7b30955f3ca4103ef344b564.png",
+            "_WT_DioramaMask_8": "sem_asset_img_fdacd4809274279cf6ebca7c6405311f80ed1666536a039ede810ebeb13c7a26.png",
+            "_WT_DioramaMask_3": "sem_asset_img_e8f62c62b6780c359bf8a8d0138198365609350c61c1fa2ec101edefcbfa0cd3.png",
+            "_WT_Diorama_15": "sem_asset_img_857eae44e5890505b3a07d1d4dd3287ac632c182d405f109845091d4e3780b84.png",
+            "_WT_Diorama_0": "sem_asset_img_05bc1bec062929b0b26269ba4d3a11493b1639eceffef7e0ae9da3442f916f54.png",
+            "_WT_Diorama_8": "sem_asset_img_00c405600baa17a3e8cf06484784c3b508305658690a6fd29dbf40d989eab25d.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125
+          ]
+        },
+        {
+          "eventId": "40a5cdc8-96fe-11f1-b4ec-12ba80845aa9",
+          "startTime": "2026-08-12T23:59:00Z",
+          "endTime": "2026-09-05T23:59:00Z",
+          "title": {
+            "pt_br": "Carnaval Brasileiro",
+            "zh_tw": "\u5df4\u897f\u5609\u5e74\u83ef",
+            "ar": "\u0643\u0631\u0646\u0641\u0627\u0644 \u0628\u0631\u0627\u0632\u064a\u0644\u064a",
+            "uk": "\u0411\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u043a\u0430\u0440\u043d\u0430\u0432\u0430\u043b",
+            "it": "Carnevale brasiliano",
+            "id": "Karnaval Brasil",
+            "tr": "Brezilya Karnaval\u0131",
+            "fr": "Carnaval br\u00e9silien",
+            "ko": "\ube0c\ub77c\uc9c8 \uce74\ub2c8\ubc1c",
+            "de": "Brasilianischer Karneval",
+            "es": "Carnaval brasile\u00f1o",
+            "ja": "\u30d6\u30e9\u30b8\u30ea\u30a2\u30f3\u30fb\u30ab\u30fc\u30cb\u30d0\u30eb",
+            "zh_cn": "\u5df4\u897f\u76db\u821e",
+            "th": "\u0e04\u0e32\u0e23\u0e4c\u0e19\u0e34\u0e27\u0e31\u0e25\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25",
+            "ru": "\u0411\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0430\u0440\u043d\u0430\u0432\u0430\u043b",
+            "en": "Brazilian Carnival"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 19,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_52_Carl_CarnivalHat",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741804,
+            "contents": [
+              {
+                "item": "AvatarFrame_WT_Brazil",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_WT_Brazil",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_9a90482658ff0bcfe8a516a8d7cb66aa36d35a5449038b8dd4ff2415683051e9.png",
+            "label": "World Tour Event Brazil",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event Brazil",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_5845aa97fb2703d505b2a4db91e9855fef488c20ff3c3b181dd326c7713b3f13.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_6a6cde51c6b62cde1061c4666aef1d341f948710c025c40d29d9db504741c5fe.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_af77db9ad59d2abceaadc620da65ada162783ae4c68ac8fe7b4402f61c416c80.png",
+            "_WT_DioramaMask_1": "sem_asset_img_9b0f0f12ee7f1da013821427e29dc6f30c991f69eab6e565acebf290c6dafaba.png",
+            "_WT_Diorama_9": "sem_asset_img_2df78f291bf1f71d2704112774975ddb253e0db2233f8956700ab8f3899dddbd.png",
+            "_WT_DioramaMask_2": "sem_asset_img_e0b98f4396d5793b0ce3be30f9c7b3b793d7cc1eec5891a56704f197cee6b9a1.png",
+            "_WT_DioramaMask_13": "sem_asset_img_45b3680841f7e69c2d77a2cf0d64569701e06b60390b5a8b40ece7e234720d26.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_c736ce2f065d795625de19dfb9a3e153f864de107b6527225b52bd5ef5fc4832.png",
+            "_WT_Diorama_3": "sem_asset_img_fd45c54042d9276fd7c3a9e8b02beb5feeb07ff3855cfe877de5862e191c7c8e.png",
+            "_WT_Diorama_6": "sem_asset_img_36a62c1fdf116f5de46a178007507db0fcac7ff2e6159c517afef2851f6e275b.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_e443870817c87b085403e16e83163a63ee5a98a504f40859aef20e1d9868da53.png",
+            "_WT_Diorama_2": "sem_asset_img_c7b072aea18316a933cea24233d8f7e2a30eb72932b51f5508b086236f8c819a.png",
+            "_WT_DioramaMask_12": "sem_asset_img_45b3680841f7e69c2d77a2cf0d64569701e06b60390b5a8b40ece7e234720d26.png",
+            "_WT_DioramaMask_6": "sem_asset_img_7ee24014a0b1e62766273f9c8af6bb70baf4e6e4ffa56346d8b18759a425e17b.png",
+            "_WT_Diorama_13": "sem_asset_img_143e4d9017705034248f86d7930f4eed63d4d9faed2fee8b29679cb122693a30.png",
+            "_WT_DioramaMask_11": "sem_asset_img_4e47f1b618f22ba66f479f449b0e75b246b02d4feb1bb16201c8af41710cc88d.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_a813a8a5d4c96d4dc1aff78a3becfacbea78e8d743cb93278164c7f140090f03.png",
+            "_WT_Diorama_12": "sem_asset_img_d9fca67785049cd373c38177162627edc8dba65ce2497c1e66d46e10c5a622b0.png",
+            "_WT_DioramaMask_9": "sem_asset_img_e0dc39a02dceb45c6df063490a4fff43c1996a353c2110eb8b80b234ad3b7f61.png",
+            "_WT_DioramaMask_7": "sem_asset_img_7ee24014a0b1e62766273f9c8af6bb70baf4e6e4ffa56346d8b18759a425e17b.png",
+            "_WT_DioramaMask_10": "sem_asset_img_4e47f1b618f22ba66f479f449b0e75b246b02d4feb1bb16201c8af41710cc88d.png",
+            "_WT_DioramaMask_15": "sem_asset_img_b222ffde60bfd98a3d12502f8f6e3d69dd3ab82f95598825ed84c0ec7fa1241f.png",
+            "_WT_Diorama_10": "sem_asset_img_875f0bb7087d9e6784ad31601aa055097f0860683eaa01ea5e478ccdc2af9c23.png",
+            "_WT_DioramaMask_5": "sem_asset_img_edb130ff1a39933b477e1e6c2f1504dbefd524a00b7004fc26f7a00a3c2ea504.png",
+            "_WT_Diorama_5": "sem_asset_img_0a3a0cd0d24ba8149560cbe547edd8582056d14ff3e61e5332aef382b33c0249.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage Brazil",
+            "_WT_Diorama_14": "sem_asset_img_823e0b864199774c2e96430195bf8b4731f8a866e3224181e4ba7b3f1d934c53.png",
+            "_WT_Diorama_4": "sem_asset_img_1a5662479eb25af91b6509b0a27dcb4e507e639224a9eabd5eb72d6311356d87.png",
+            "_WT_DioramaMask_4": "sem_asset_img_edb130ff1a39933b477e1e6c2f1504dbefd524a00b7004fc26f7a00a3c2ea504.png",
+            "label": "World Tour Stage Brazil",
+            "_WT_DioramaMask_0": "sem_asset_img_9b0f0f12ee7f1da013821427e29dc6f30c991f69eab6e565acebf290c6dafaba.png",
+            "_WT_DioramaMask_14": "sem_asset_img_b222ffde60bfd98a3d12502f8f6e3d69dd3ab82f95598825ed84c0ec7fa1241f.png",
+            "_WT_Diorama_16": "sem_asset_img_c78b078bd5ead85225d79a61514d025d444c4fb06b2daf50f46ccb7d9d668437.png",
+            "_WT_Diorama_11": "sem_asset_img_19915df51635051d0f0dc5d65e7e84b47dfc8d0da1c25b04fa8f1c1f9b8eb840.png",
+            "_WT_DioramaMask_8": "sem_asset_img_e0dc39a02dceb45c6df063490a4fff43c1996a353c2110eb8b80b234ad3b7f61.png",
+            "_WT_DioramaMask_3": "sem_asset_img_e0b98f4396d5793b0ce3be30f9c7b3b793d7cc1eec5891a56704f197cee6b9a1.png",
+            "_WT_Diorama_15": "sem_asset_img_c044c987cd3b699c5250b353cbf4d98795ac5bf63353bf1de7b3277bd0b29e50.png",
+            "_WT_Diorama_0": "sem_asset_img_6b4a38c7e253b858335b1e84cc1caa0db822af0cdefd5ba4d2150aeddc127dbb.png",
+            "_WT_Diorama_8": "sem_asset_img_e2c785784f6e766bf9dc86e974ad6e4c5a547571e5865b11e22e52acdcb3ad35.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125
+          ]
+        },
+        {
+          "eventId": "78a9fdc2-a79b-11f1-b63d-cabd181c3e83",
+          "startTime": "2026-09-05T23:59:00Z",
+          "endTime": "2026-09-30T23:59:00Z",
+          "title": {
+            "pt_br": "Harmonia Chinesa",
+            "zh_tw": "\u548c\u97fb\u83ef\u590f",
+            "ar": "\u062a\u0646\u0627\u063a\u0645 \u0635\u064a\u0646\u064a",
+            "uk": "\u041a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0430 \u0433\u0430\u0440\u043c\u043e\u043d\u0456\u044f",
+            "it": "Armonia cinese",
+            "id": "Harmoni Tiongkok",
+            "tr": "\u00c7in Uyumu",
+            "fr": "Harmonie chinoise",
+            "ko": "\uc911\uad6d\uc758 \ud558\ubaa8\ub2c8",
+            "de": "Chinesische Harmonie",
+            "es": "Armon\u00eda china",
+            "ja": "\u30c1\u30e3\u30a4\u30cb\u30fc\u30ba\u30fb\u30cf\u30fc\u30e2\u30cb\u30fc",
+            "zh_cn": "\u4e2d\u534e\u548c\u97f5",
+            "th": "\u0e08\u0e35\u0e19\u0e2a\u0e32\u0e21\u0e31\u0e04\u0e04\u0e35",
+            "ru": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u044f",
+            "en": "Chinese Harmony"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 21,
+            "contents": [
+              {
+                "item": "Minion_167_Sweetie",
+                "amount": 1
+              },
+              {
+                "item": "Minion_155_Stuart_Villainfan",
+                "amount": 1
+              },
+              {
+                "item": "Minion_150_Carl_IceTober",
+                "amount": 1
+              },
+              {
+                "item": "Minion_165_Aviator",
+                "amount": 1
+              },
+              {
+                "item": "Minion_163_HoneyBadger",
+                "amount": 1
+              },
+              {
+                "item": "Minion_111_Bob_King",
+                "amount": 1
+              },
+              {
+                "item": "Minion_116_Egyptian",
+                "amount": 1
+              },
+              {
+                "item": "Minion_97_Legionary",
+                "amount": 1
+              },
+              {
+                "item": "Minion_119_KingsGuard",
+                "amount": 1
+              },
+              {
+                "item": "Minion_121_Beenion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_161_Renfield",
+                "amount": 1
+              },
+              {
+                "item": "Minion_158_Racer",
+                "amount": 1
+              },
+              {
+                "item": "Minion_84_SpyDisguise",
+                "amount": 1
+              },
+              {
+                "item": "Minion_35_Astronaut",
+                "amount": 1
+              },
+              {
+                "item": "Minion_101_Mime",
+                "amount": 1
+              },
+              {
+                "item": "Minion_113_Woodminion",
+                "amount": 1
+              },
+              {
+                "item": "Minion_45_LC_CHD_001_Fuwa",
+                "amount": 1
+              },
+              {
+                "item": "Minion_131_Stuart_Kungfu",
+                "amount": 1
+              },
+              {
+                "item": "Minion_39_Lucy",
+                "amount": 1
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 20
+              },
+              {
+                "item": "Token",
+                "amount": 600
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "GachaReward",
+            "amount": 1,
+            "aux": -1073741802,
+            "contents": [
+              {
+                "item": "AvatarFrame_WT_China",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "Avatar_WT_China",
+                "amount": 1,
+                "aux": -5
+              },
+              {
+                "item": "CollectionSticker_EmergencyTeam",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoricalGuards",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HistoryLessons",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportsExperts",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Villains",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_BeachAdventures",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_LoveAir",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_TalentShowcase",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_DarkSideMinions",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_MusicHeart",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_PartyTime",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_WelcomeFamily",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HardWorkers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_HoHoHo",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_AnimalsFriends",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_KigurumiFans",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_Pioneers",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "CollectionSticker_SportLifestyle",
+                "amount": 20,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_JetBoosters",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_MinionArmor",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_PogoStick",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_RocketBlade",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "BoosterEnergy_Smasher",
+                "amount": 2,
+                "aux": -10
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 3,
+                "aux": -15
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 5,
+                "aux": -15
+              },
+              {
+                "item": "Key_Golden",
+                "amount": 1,
+                "aux": 10
+              },
+              {
+                "item": "Key_Silver",
+                "amount": 1,
+                "aux": 20
+              },
+              {
+                "item": "Token",
+                "amount": 20,
+                "aux": 10
+              }
+            ]
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_9a90482658ff0bcfe8a516a8d7cb66aa36d35a5449038b8dd4ff2415683051e9.png",
+            "label": "World Tour Event China",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event China",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_3bf3d11db79f84832d0ffaaf34aed8c42305816be7b912d0e8a2e27a018d6fb4.jpg",
+            "_WT_MainMenuEntryArt": "sem_asset_img_92c446d12ae803c1c1f72155113fbbb78921ae83565e134cdfe1c6a36166ac84.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_ad4806d61c556faefb15183c8fdc5ff0b9d98730c6f4063663417aa9f8707598.png",
+            "_WT_DioramaMask_1": "sem_asset_img_7fcccd43d3cc531c823d38221905ecc49a5b7e21144ac0f8d0198274cd8120aa.png",
+            "_WT_Diorama_9": "sem_asset_img_5ce31b180ce90060b20731f29c612caccdd758a9fb0d1da3cf760c2d48e7f200.png",
+            "_WT_DioramaMask_2": "sem_asset_img_a9c614ddaa4782da9be09a6b63d34ca50a41340a8c10a652c7f622a3c9d81ecb.png",
+            "_WT_DioramaMask_13": "sem_asset_img_b867127a5fd5dac5389813d103d22f41a1c8995e0eefffb2c4f2d3bb5e7552d5.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_c2eba27492e1605300f69c6d53e6fc3ab73f73ccf06fee285a31e28a0c46c36e.png",
+            "_WT_Diorama_3": "sem_asset_img_5cfb08158879e2b501c399f245765ff82b52c681e28f734b5951d1c061450cb9.png",
+            "_WT_Diorama_6": "sem_asset_img_d8ab38b4b0992eba04ad7f28f02fc419bf4f0d32b4965d3c95636d2e877f5667.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_51efcbc43867be29367e7508329b407169923b07167d29bebc5ea4f5e62100fc.png",
+            "_WT_Diorama_2": "sem_asset_img_347e9ac36024eb73a25e391348ffc127910ffff2bf217c7333ca8fea9d5659cf.png",
+            "_WT_DioramaMask_12": "sem_asset_img_b867127a5fd5dac5389813d103d22f41a1c8995e0eefffb2c4f2d3bb5e7552d5.png",
+            "_WT_DioramaMask_6": "sem_asset_img_2e6e8e183c2e4657446572bf908f4c948153202a58bd23648845d1a7d9f6445c.png",
+            "_WT_Diorama_13": "sem_asset_img_0dd9c4ba4020569903d67d08a10e6c41d2e3debac93129fb026c1dd942b049ba.png",
+            "_WT_DioramaMask_11": "sem_asset_img_cb47bec117d2d77b3bd52421f1f47628a93986f4a7b4039462987d6c7d7d5e12.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_90fd7fee7e3f50be767f3a3ab183a46f4bc01a5c59dcd0db4f51a2cacdf4f702.png",
+            "_WT_Diorama_12": "sem_asset_img_7f1f7b5230b7586e8cb5baef6051c43f5770287c2ccf9fb4006ad37d3300c7bc.png",
+            "_WT_DioramaMask_9": "sem_asset_img_9904079b5ccba49678c0fbad73fe46b620bd097af10f963658f2c15df1fbdfcf.png",
+            "_WT_DioramaMask_7": "sem_asset_img_2e6e8e183c2e4657446572bf908f4c948153202a58bd23648845d1a7d9f6445c.png",
+            "_WT_DioramaMask_10": "sem_asset_img_cb47bec117d2d77b3bd52421f1f47628a93986f4a7b4039462987d6c7d7d5e12.png",
+            "_WT_DioramaMask_15": "sem_asset_img_8a1a59197a855064acb5a83f313d868cbaeb028b0511e04c39ad77f93d324ea3.png",
+            "_WT_Diorama_10": "sem_asset_img_4b1d52f97b81ff2be3b1682e53eeb766e0143dda9778284c562e78705d491437.png",
+            "_WT_DioramaMask_5": "sem_asset_img_676a6126b3debfd0cf7e49d7a149d33d8053a13b9781c17fc24cf00c8745b7f8.png",
+            "_WT_Diorama_5": "sem_asset_img_ab58a9e20d3f3dc7e942950bc749831a50a207d7a4dd3185eb000f7f30235cd5.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage China",
+            "_WT_Diorama_14": "sem_asset_img_2b51bca425559d887bb705ee9610113df91ce89c748a9d71aeaa756262a0e307.png",
+            "_WT_Diorama_4": "sem_asset_img_d39251ff00ebd9fef41767cfa2caae1ccf7871986602b27cd6f41480cb05fae4.png",
+            "_WT_DioramaMask_4": "sem_asset_img_676a6126b3debfd0cf7e49d7a149d33d8053a13b9781c17fc24cf00c8745b7f8.png",
+            "label": "World Tour Stage China",
+            "_WT_DioramaMask_0": "sem_asset_img_7fcccd43d3cc531c823d38221905ecc49a5b7e21144ac0f8d0198274cd8120aa.png",
+            "_WT_DioramaMask_14": "sem_asset_img_8a1a59197a855064acb5a83f313d868cbaeb028b0511e04c39ad77f93d324ea3.png",
+            "_WT_Diorama_16": "sem_asset_img_d04b48466fed3cc9cd033f4fe1693f6ea7933d14f8c524e3932719b846ee5320.png",
+            "_WT_Diorama_11": "sem_asset_img_0632b7030a08395626f4f661c39801d757751e3b57d44e588de141c50d110774.png",
+            "_WT_DioramaMask_8": "sem_asset_img_9904079b5ccba49678c0fbad73fe46b620bd097af10f963658f2c15df1fbdfcf.png",
+            "_WT_DioramaMask_3": "sem_asset_img_a9c614ddaa4782da9be09a6b63d34ca50a41340a8c10a652c7f622a3c9d81ecb.png",
+            "_WT_Diorama_15": "sem_asset_img_7ec1be32d225d4ca881dfbb94bb61780edf1b5476399ae31fc3b005b3ef6f96c.png",
+            "_WT_Diorama_0": "sem_asset_img_75c5c4883287139c8885934569f7e4dc6f7b95868eb417a34e870a5ca5029791.png",
+            "_WT_Diorama_8": "sem_asset_img_cb866acdc348f67821e04fadbbe9c5251356edee21e848878554aca15d5aa6ac.png"
+          },
+          "steps": [
+            50,
+            50,
+            75,
+            75,
+            75,
+            75,
+            75,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            125,
+            125,
+            125
+          ]
+        },
+        {
+          "eventId": "67fcae06-b016-11f1-a06c-ee6a61558d28",
+          "startTime": "2026-09-30T23:59:00Z",
+          "endTime": "2026-10-28T23:59:00Z",
+          "title": {
+            "pt_br": "World Tour Stage",
+            "zh_tw": "World Tour Stage",
+            "ar": "World Tour Stage",
+            "uk": "World Tour Stage",
+            "it": "World Tour Stage",
+            "id": "World Tour Stage",
+            "tr": "World Tour Stage",
+            "fr": "World Tour Stage",
+            "ko": "World Tour Stage",
+            "de": "World Tour Stage",
+            "es": "World Tour Stage",
+            "ja": "World Tour Stage",
+            "zh_cn": "World Tour Stage",
+            "th": "World Tour Stage",
+            "ru": "World Tour Stage",
+            "en": "World Tour Stage"
+          },
+          "completionReward": {
+            "item": "DynamicReward",
+            "amount": 1,
+            "aux": 23,
+            "contents": [
+              {
+                "item": "Token",
+                "amount": 1
+              },
+              {
+                "item": "GCoin",
+                "amount": 1
+              }
+            ]
+          },
+          "gachaReward": {
+            "item": "CollectionSticker_SportsExperts",
+            "amount": 10,
+            "aux": -1073741824
+          },
+          "gachaRewardMultiplier": 2,
+          "eventSkin": {
+            "_WT_FinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_DioramaCovered": "sem_asset_img_20a524011536f5aa28eddfc36d8fb0532bd02f421501939bd56f20933aefe08f.png",
+            "_WT_MainRewardArt": "sem_asset_img_9a90482658ff0bcfe8a516a8d7cb66aa36d35a5449038b8dd4ff2415683051e9.png",
+            "label": "World Tour Event Farewell",
+            "_WT_AboutToFinishPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Event Farewell",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_type": "WorldTourEventTemplate",
+            "_WT_EventMenuEntryArt": "sem_asset_img_007499cec37c425d9e8e0c61ba180088ad002e6e39a3af7f7b3ef0e31cb6275b.png",
+            "_WT_MainMenuEntryArt": "sem_asset_img_741bcd80b4c164f5ad94fc85f760040e6b83c5a149f4bbbcec2c3595cde46fe1.png"
+          },
+          "stageSkin": {
+            "_WT_DioramaCovered": "sem_asset_img_a791824d95fc970832e65178077686db65df66e43e3afafbff15f6883ed9e90a.png",
+            "_WT_DioramaMask_1": "sem_asset_img_84111cd2707b032c7ed0d7f37bed40573d24fa0aad6494c17b36652c9f62687c.png",
+            "_WT_Diorama_9": "sem_asset_img_0bb8e51a39667018509f1f7e1700604f7e288d0146d837fac1bfc8eeaa20cfaf.png",
+            "_WT_DioramaMask_2": "sem_asset_img_7a711065605ad62b02a32460d3eb8ac4d8be32af3d0ee0da026602995a4cc24b.png",
+            "_WT_DioramaMask_13": "sem_asset_img_08c4b06c8b24d54decbd4e11b35adccd83de014edc37b70bb9119a1e428ddff2.png",
+            "_WT_GachaBoxBackground": "sem_asset_img_72f640656666963a15c9fe815743c5803bdf0aa942a50fe79692e3fff8c327a8.png",
+            "_WT_Diorama_3": "sem_asset_img_16ef4647c27f1d75005110c45a9e7d5789b3c54563b42815fa31a97058217396.png",
+            "_WT_Diorama_6": "sem_asset_img_f0d1a905e53eab70484d1d3e626fb64361acf6ec6caa0b6b77009e39affee879.png",
+            "_WT_ResourcesReminderPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "_WT_Diorama_1": "sem_asset_img_ca33fd7e25288cb7d860dc38ba66d4a3267ac6aa495bdcd8f64b14599d51aff9.png",
+            "_WT_Diorama_2": "sem_asset_img_10c7de773c6cfe096a09497827fec55f8bda95f355e4be06ab88faf57ad7eb01.png",
+            "_WT_DioramaMask_12": "sem_asset_img_08c4b06c8b24d54decbd4e11b35adccd83de014edc37b70bb9119a1e428ddff2.png",
+            "_WT_DioramaMask_6": "sem_asset_img_568bd322f167e2884ced064ebb37d8fde7d8cb8a148f45861199d12d0fc0f761.png",
+            "_WT_Diorama_13": "sem_asset_img_047b27d50569a9e977522fee62b95678948abd98e174933d665a5f7718375b47.png",
+            "_WT_DioramaMask_11": "sem_asset_img_33fecbcec0fadcf50502572943760eb500645ab56edf71fdc404c50d2009e225.png",
+            "_type": "WorldTourStageTemplate",
+            "_WT_Diorama_7": "sem_asset_img_91ff90d3f0eb376c3d1bb14fab5050b9ad9f447849811403b5d1787edaa6ef96.png",
+            "_WT_Diorama_12": "sem_asset_img_bbaafe3568aa1d19ae72648dec3c0aa864213f2ac327b77f1f782f3ba5c6ffa8.png",
+            "_WT_DioramaMask_9": "sem_asset_img_7aa3b41f9b0630bc0b78e7a2880829e1f216a2a6e0c5066ffca657d13bcf69de.png",
+            "_WT_DioramaMask_7": "sem_asset_img_568bd322f167e2884ced064ebb37d8fde7d8cb8a148f45861199d12d0fc0f761.png",
+            "_WT_DioramaMask_10": "sem_asset_img_33fecbcec0fadcf50502572943760eb500645ab56edf71fdc404c50d2009e225.png",
+            "_WT_DioramaMask_15": "sem_asset_img_5e176995647529e620ca340da69b10472c57b188f80f3563ee988c58f100e953.png",
+            "_WT_Diorama_10": "sem_asset_img_2acb5f4b3e13da83902afad0d0968fe639655322b75ccb91c6e0d086c4550015.png",
+            "_WT_DioramaMask_5": "sem_asset_img_bb3bec16d90eb05e1be7ce4f669621657a0d2bc00ed9a71b29fc4ab236f70697.png",
+            "_WT_Diorama_5": "sem_asset_img_8bccdd4717c5fb623a66c343d8710b130f7a9ff02e4e55748d3b8894bd82a2fc.png",
+            "_WT_AnnouncementPopupArt": "sem_asset_img_986b3330f27f50ef2cfd81686caeae138918e6dde3fcbb6a889611085f8f71a5.png",
+            "value": "World Tour Stage Farewell",
+            "_WT_Diorama_14": "sem_asset_img_9cb9b930b78d03f6568080a9dfe16c6668e8db576d08492848a4a319581b0e19.png",
+            "_WT_Diorama_4": "sem_asset_img_dc94da4107d0da15cca273e0036a66ee257aca6a2493dd84f1b576a6c8ef0fb8.png",
+            "_WT_DioramaMask_4": "sem_asset_img_bb3bec16d90eb05e1be7ce4f669621657a0d2bc00ed9a71b29fc4ab236f70697.png",
+            "label": "World Tour Stage Farewell",
+            "_WT_DioramaMask_0": "sem_asset_img_84111cd2707b032c7ed0d7f37bed40573d24fa0aad6494c17b36652c9f62687c.png",
+            "_WT_DioramaMask_14": "sem_asset_img_5e176995647529e620ca340da69b10472c57b188f80f3563ee988c58f100e953.png",
+            "_WT_Diorama_16": "sem_asset_img_9c30a751898e909e210844b2a151e0850f463aafa94a5902acfbca7537006206.png",
+            "_WT_Diorama_11": "sem_asset_img_f29da5ede1f991c07c83aab2c5d39fd79a63cc04d72f4a508025598b54eac487.png",
+            "_WT_DioramaMask_8": "sem_asset_img_7aa3b41f9b0630bc0b78e7a2880829e1f216a2a6e0c5066ffca657d13bcf69de.png",
+            "_WT_DioramaMask_3": "sem_asset_img_7a711065605ad62b02a32460d3eb8ac4d8be32af3d0ee0da026602995a4cc24b.png",
+            "_WT_Diorama_15": "sem_asset_img_013c9cebf6d3fae98b67985967d5aa44d54ca39728b9876df760b3431c7c7fa5.png",
+            "_WT_Diorama_0": "sem_asset_img_73ecdd608e2cb2bbf9e89575e075b555def0a110981ee8bcc8840cade101aa8a.png",
+            "_WT_Diorama_8": "sem_asset_img_a9b97d1b6ed013a42c5dc71a335d3dd6e4bb5f75516d991969cd9f1e51671e48.png"
+          },
+          "steps": [
+            10,
+            20,
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100,
+            110,
+            120,
+            130,
+            140,
+            150,
+            160
+          ]
+        }
+      ],
+      "itemsInitial": 50
+    }
+  ],
+  "bossFightEvents": [
+    {
+      "startTime": "2026-09-14T00:00:00Z",
+      "endTime": "2026-09-27T23:59:00Z",
+      "eventId": "5d8b7cf8-ad0b-11f1-bca6-5a67b6483e77",
+      "name": "BF_UPD103_Dynamic_Reward_2_1409_2709",
+      "priority": 1,
+      "title": {
+        "pt_br": "",
+        "zh_tw": "",
+        "ar": "",
+        "uk": "",
+        "it": "",
+        "id": "",
+        "tr": "",
+        "fr": "",
+        "ko": "",
+        "de": "",
+        "es": "",
+        "ja": "",
+        "zh_cn": "",
+        "th": "",
+        "ru": "",
+        "en": ""
+      },
+      "ActionPhaseDifficultyTiers": [
+        {
+          "cap": 350
+        },
+        {
+          "cap": 600,
+          "tier": "Easy"
+        },
+        {
+          "cap": 801,
+          "tier": "Normal"
+        }
+      ],
+      "ActionPhaseMaxMultiplier": 8,
+      "milestones": [
+        {
+          "points": 30,
+          "rewards": [
+            {
+              "item": "Key_Silver",
+              "amount": 1
+            },
+            {
+              "item": "CollectionSticker_HistoricalGuards",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 80,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            },
+            {
+              "item": "BoosterEnergy_RocketBlade",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 150,
+          "rewards": [
+            {
+              "item": "Key_Silver",
+              "amount": 2
+            },
+            {
+              "item": "CollectionSticker_HistoryLessons",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 250,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            },
+            {
+              "item": "BoosterEnergy_JetBoosters",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 400,
+          "rewards": [
+            {
+              "item": "Key_Silver",
+              "amount": 2
+            },
+            {
+              "item": "CollectionSticker_SportsExperts",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 600,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 1
+            },
+            {
+              "item": "BoosterEnergy_MinionArmor",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "points": 800,
+          "rewards": [
+            {
+              "item": "Key_Silver",
+              "amount": 3
+            },
+            {
+              "item": "CollectionSticker_Villains",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 1000,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 2
+            },
+            {
+              "item": "BoosterEnergy_RocketBlade",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "points": 1200,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 2
+            },
+            {
+              "item": "CollectionSticker_BeachAdventures",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 1400,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 2
+            },
+            {
+              "item": "BoosterEnergy_JetBoosters",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "points": 1600,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 2
+            },
+            {
+              "item": "CollectionSticker_LoveAir",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 1800,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 2
+            },
+            {
+              "item": "BoosterEnergy_MinionArmor",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "points": 2100,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            },
+            {
+              "item": "CollectionSticker_TalentShowcase",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 2400,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            },
+            {
+              "item": "BoosterEnergy_JetBoosters",
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "points": 2700,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            },
+            {
+              "item": "CollectionSticker_KigurumiFans",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 3000,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            },
+            {
+              "item": "CollectionSticker_DarkSideMinions",
+              "amount": 25
+            }
+          ]
+        },
+        {
+          "points": 3300,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            },
+            {
+              "item": "BoosterEnergy_MinionArmor",
+              "amount": 3
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 3700,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 3
+            },
+            {
+              "item": "CollectionSticker_MusicHeart",
+              "amount": 25
+            }
+          ]
+        },
+        {
+          "points": 4100,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 4
+            },
+            {
+              "item": "BoosterEnergy_Smasher",
+              "amount": 3
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 4500,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 4
+            },
+            {
+              "item": "CollectionSticker_PartyTime",
+              "amount": 25
+            }
+          ]
+        },
+        {
+          "points": 4900,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 4
+            },
+            {
+              "item": "CollectionSticker_AnimalsFriends",
+              "amount": 25
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 5400,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 4
+            },
+            {
+              "item": "CollectionSticker_WelcomeFamily",
+              "amount": 25
+            }
+          ]
+        },
+        {
+          "points": 5900,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 4
+            },
+            {
+              "item": "BoosterEnergy_RocketBlade",
+              "amount": 4
+            },
+            {
+              "item": "Token",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "points": 6400,
+          "rewards": [
+            {
+              "item": "Key_Golden",
+              "amount": 4
+            },
+            {
+              "item": "CollectionSticker_HardWorkers",
+              "amount": 25
+            }
+          ]
+        },
+        {
+          "points": 7000,
+          "rewards": [
+            {
+              "item": "DynamicReward",
+              "amount": 1,
+              "aux": 24,
+              "contents": [
+                {
+                  "item": "Minion_128_Kevin_None",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_146_Phil_None",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_162_AVLsuit",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_154_Snowman",
+                  "amount": 1
+                },
+                {
+                  "item": "Minion_169_ShroomShaman",
+                  "amount": 1
+                },
+                {
+                  "item": "Key_Golden",
+                  "amount": 20
+                },
+                {
+                  "item": "Token",
+                  "amount": 1000
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "repeatedMilestone": {
+        "points": 500,
+        "reward": {
+          "item": "GachaReward",
+          "amount": 1,
+          "aux": 25,
+          "contents": [
+            {
+              "item": "Token",
+              "amount": 500,
+              "aux": 7
+            },
+            {
+              "item": "Key_Golden",
+              "amount": 5,
+              "aux": 6
+            },
+            {
+              "item": "Key_Silver",
+              "amount": 5,
+              "aux": 8
+            },
+            {
+              "item": "BoosterEnergy_JetBoosters",
+              "amount": 5,
+              "aux": 10
+            },
+            {
+              "item": "BoosterEnergy_MinionArmor",
+              "amount": 5,
+              "aux": 10
+            },
+            {
+              "item": "BoosterEnergy_PogoStick",
+              "amount": 5,
+              "aux": 10
+            },
+            {
+              "item": "BoosterEnergy_Smasher",
+              "amount": 5,
+              "aux": 10
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
