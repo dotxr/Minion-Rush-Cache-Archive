@@ -21,4 +21,3 @@ Every Minion Rush asset still pullable from Gameloft's servers as of September 2
 
 - `missing` in `versions.json` lists assets that were already deleted upstream.
 - `native-1677` only has the latest TOC for each platform. The iOS 6.x TOCs are gone.
-- Files over 99 MB are tracked with Git LFS.
